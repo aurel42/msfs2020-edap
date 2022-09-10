@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" Name="charliebravo-airport-edap-cottbus-neuhausen" FolderName="Output" MetadataFolderName="PackagesMetadata">
+	<OutputDirectory>.\</OutputDirectory>
+	<TemporaryOutputDirectory>Temp</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\charliebravo-airport-edap-cottbus-neuhausen.xml</Package>
+	</Packages>
+</Project>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{eb32e7eb-0967-4aef-bb58-1ee7b96c300f}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-guard-post_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

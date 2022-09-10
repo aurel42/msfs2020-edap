@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{f248f262-15f1-4e7a-9f2a-e327a94bafc0}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-main-building_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

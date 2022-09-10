@@ -1,0 +1,23 @@
+<SimBase.Document Type="ServiceFile" version="1,0">
+  <Filename>Services.spb</Filename>
+  <Service.ParkingSpaceServices>
+    <ParkingSpace MinParkingSpaces="0">
+      <ParkingTypes>
+	<ParkingEntry ParkingType="RAMP_GA_MEDIUM"/>
+	<ParkingEntry ParkingType="RAMP_GA_SMALL"/>
+	<ParkingEntry ParkingType="RAMP_GA"/>
+	<ParkingEntry ParkingType="DOCK_GA"/>
+      </ParkingTypes>
+      <IdleWorkers>
+      </IdleWorkers>
+      <Services>
+      </Services>
+      <SleepingActivities>
+      </SleepingActivities>
+    </ParkingSpace>
+  </Service.ParkingSpaceServices>
+  <Service.AirportServices>
+    <Services>
+    </Services>
+  </Service.AirportServices>
+</SimBase.Document>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{53c10684-a156-4de5-b874-86d229608cc2}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-hangar-for_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

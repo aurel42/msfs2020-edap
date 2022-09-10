@@ -1,0 +1,1687 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: edap-rb65-->
+	<SceneryObject parentGroupID="3" groupIndex="3" lat="51.60846259564358" lon="14.42902352691319" alt="0.00000000000000" pitch="-0.145005" bank="-0.001373" heading="-175.655007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E17792A8-3D8B-432F-BECD-3EAEB375ED9B}" scale="0.620000"/>
+	</SceneryObject>
+	<Polygon displayName="remove spurious skyscraper" parentGroupID="4" altitude="79.24912261962891">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{48A3985C-B5BB-4431-8268-B2669B7A2829}"/>
+		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
+		<Vertex lat="51.71987997867982" lon="14.34154061626540"/>
+		<Vertex lat="51.71992897932926" lon="14.34174143631836"/>
+		<Vertex lat="51.72006674626250" lon="14.34167996654818"/>
+		<Vertex lat="51.72002315605280" lon="14.34144451812730"/>
+	</Polygon>
+	<!--SceneryObject name: Car02_White-->
+	<SceneryObject parentGroupID="1" lat="51.68723074859151" lon="14.41452685247009" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="55.999997" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8B77A03D-A804-445A-97F8-A23DB1DCDB69}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car04_Gray-->
+	<SceneryObject parentGroupID="1" groupIndex="1" lat="51.68657319413289" lon="14.41385283949147" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-48.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C5A690C3-FEA2-4302-9C0C-1212EF0251B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="16" lat="51.68008391668252" lon="14.42997897395547" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="15" lat="51.68040380581631" lon="14.42821474112387" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="14" lat="51.68079124854475" lon="14.42697409551056" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="12" lat="51.68092506167464" lon="14.42133844894097" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="11" lat="51.68109192547812" lon="14.42259130565887" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="13" lat="51.68133755891327" lon="14.42427157340632" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="10" lat="51.68200665784620" lon="14.42142402425097" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="9" lat="51.68203968916240" lon="14.42127895527806" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="8" lat="51.68265967644962" lon="14.41903292408695" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="7" lat="51.68269403482471" lon="14.41888448010811" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="6" lat="51.68698081014836" lon="14.42602764902299" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="5" lat="51.68763422848061" lon="14.42370736941244" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="4" lat="51.68813707206034" lon="14.42158265313534" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_PowerGeneratorWhite-->
+	<SceneryObject parentGroupID="8" groupIndex="3" lat="51.68856681137353" lon="14.41973772206671" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B834F8D-A6B4-4119-A1C2-4CC3BCE49413}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Construction_SolarCellsSingle-->
+	<SceneryObject parentGroupID="8" groupIndex="1" lat="51.67988883613989" lon="14.42650346813671" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-159.278167" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CCB1BBF0-A301-48FB-832F-362355A79AEE}" scale="4.600000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Container01-->
+	<SceneryObject parentGroupID="3" groupIndex="1" lat="51.68700545298474" lon="14.41495063911687" alt="0.00000000000000" pitch="0.000861" bank="-0.000854" heading="-125.125241" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6CFC8DEE-869D-4460-BFB5-F5E12FE5EE9D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Container03-->
+	<SceneryObject parentGroupID="3" groupIndex="9" lat="51.68090334691461" lon="14.42589325228211" alt="0.00000000000000" pitch="0.000826" bank="-0.000826" heading="-162.057849" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D54A2B83-960A-40A1-A261-DD3F8644606B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Airport_RedWhite_Antenna_01-->
+	<SceneryObject parentGroupID="3" groupIndex="5" lat="51.68513278777121" lon="14.42334741537028" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-176.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1DEF7401-E51C-44DE-B545-C7B2002E289E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar07-->
+	<SceneryObject parentGroupID="7" lat="51.68611451932168" lon="14.41462348072980" alt="0.00000000000000" pitch="0.000881" bank="-0.000881" heading="-126.663249" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{992F5069-9BEF-4BAA-BA38-863035A92234}" scale="0.650000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="67" lat="51.68467815627736" lon="14.43074619609210" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="66" lat="51.68473339682880" lon="14.43052069068064" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="68" lat="51.68481427152550" lon="14.43078119832426" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="65" lat="51.68489141667154" lon="14.43049031636009" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="69" lat="51.68494194730906" lon="14.43072818519439" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="63" lat="51.68512200537327" lon="14.42955280485605" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="64" lat="51.68527987423934" lon="14.42963141849884" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="60" lat="51.68733205180390" lon="14.41666743792029" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="59" lat="51.68738042743870" lon="14.41645840635418" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="61" lat="51.68753101799821" lon="14.41681573393113" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="58" lat="51.68758091078813" lon="14.41660449169939" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="55" lat="51.68791804005973" lon="14.41716645736099" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="62" lat="51.68796764953422" lon="14.41799972108095" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="56" lat="51.68800642416112" lon="14.41725259569882" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="51" lat="51.68807566157003" lon="14.41696989374171" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="57" lat="51.68809384579217" lon="14.41734657007269" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="54" lat="51.68811024058363" lon="14.41808574522320" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="52" lat="51.68826153633356" lon="14.41718736029227" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Cone-Taxi-->
+	<SceneryObject parentGroupID="6" groupIndex="53" lat="51.68827860649330" lon="14.41738523259517" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A543D2F9-B4BB-4F69-370A-1C0F0BEF08EE}" scale="4.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-ElektricalDistributor-->
+	<SceneryObject parentGroupID="5" groupIndex="3" lat="51.68690318672106" lon="14.41539288064980" alt="0.00000000000000" pitch="0.000997" bank="-0.001004" heading="54.478815" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{96416B93-3960-443B-9C07-4F3572D6D3A3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="7" lat="51.68296951436064" lon="14.42984729264949" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-160.000009" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="6" lat="51.68318306739487" lon="14.42998825738595" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-160.000009" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="5" lat="51.68360048808520" lon="14.42713784058396" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-68.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="4" lat="51.68385056541867" lon="14.42730000583222" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-68.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="3" lat="51.68533030382106" lon="14.41990923076124" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-68.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="2" lat="51.68558001595138" lon="14.42008050945885" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-68.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="1" lat="51.68604111796660" lon="14.41711735607033" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-161.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" lat="51.68625457114138" lon="14.41724067371518" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-161.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="49" lat="51.68655054536755" lon="14.42108804625273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-GableMarker-->
+	<SceneryObject parentGroupID="6" groupIndex="50" lat="51.68690159438743" lon="14.42130747059446" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-70.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2AE61D71-456E-47A9-7B96-0186BB51EC4A}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Glider-Trailer01blue-->
+	<SceneryObject parentGroupID="3" groupIndex="7" lat="51.68626431390163" lon="14.41455083489281" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-34.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ECB0739F-073B-4BD0-C3C4-9AA42E078D75}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Glider-Trailer02-closed-->
+	<SceneryObject parentGroupID="3" groupIndex="6" lat="51.68627918958045" lon="14.41452105307448" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="53.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E66B71DE-0D28-4D33-E780-BDADC3C0B7AB}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-HeliHandler01-->
+	<SceneryObject parentGroupID="3" groupIndex="13" lat="51.68663272465205" lon="14.41447736651744" alt="0.00000000000000" pitch="0.001339" bank="-0.001339" heading="78.486366" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ED20C8AE-9515-4EFA-6269-83537D11660A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-HeliHandler01-->
+	<SceneryObject displayName="Mikeaat-HeliHandler01 (copy)" parentGroupID="3" groupIndex="14" lat="51.68695776066127" lon="14.41503253517243" alt="0.00000000000000" pitch="0.001892" bank="-0.001947" heading="-119.543146" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ED20C8AE-9515-4EFA-6269-83537D11660A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="29" lat="51.68411950638058" lon="14.43096654189084" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="28" lat="51.68432014524222" lon="14.43016094361430" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="30" lat="51.68446617377730" lon="14.43118236661025" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="27" lat="51.68455206398293" lon="14.42921616717798" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="31" lat="51.68466505861450" lon="14.43036905024668" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="26" lat="51.68471920531584" lon="14.42854080634748" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="25" lat="51.68488179069339" lon="14.42787516612862" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="32" lat="51.68489693623121" lon="14.42942690985165" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="24" lat="51.68504587550193" lon="14.42720723154397" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="33" lat="51.68506130227929" lon="14.42876373799580" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="23" lat="51.68520417995233" lon="14.42653604403273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="34" lat="51.68522635390241" lon="14.42809860597100" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="22" lat="51.68537575797858" lon="14.42586825591525" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="35" lat="51.68539040798618" lon="14.42743050960522" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="36" lat="51.68555885680325" lon="14.42676279155557" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="21" lat="51.68558205398001" lon="14.42502787179169" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="37" lat="51.68572189335225" lon="14.42608804478273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="20" lat="51.68574697970400" lon="14.42435620934159" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="19" lat="51.68590655527251" lon="14.42367963304883" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="38" lat="51.68592501153162" lon="14.42525781441092" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="18" lat="51.68608082926207" lon="14.42300472552256" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="39" lat="51.68609299661669" lon="14.42457844913164" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="17" lat="51.68624519910192" lon="14.42234033027396" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="40" lat="51.68626483125820" lon="14.42391398940296" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="16" lat="51.68640747755202" lon="14.42167697820087" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="41" lat="51.68642484270568" lon="14.42323890959363" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="15" lat="51.68656652530986" lon="14.42100503303228" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="42" lat="51.68658800588283" lon="14.42256774725648" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="14" lat="51.68673967961214" lon="14.42032980788617" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="43" lat="51.68675482341042" lon="14.42189447353456" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="13" lat="51.68690017545712" lon="14.41967655937538" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="44" lat="51.68692494842404" lon="14.42123112432478" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="12" lat="51.68706756301971" lon="14.41900245899936" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="45" lat="51.68708468687134" lon="14.42055359544180" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="11" lat="51.68723697740109" lon="14.41831364559872" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="46" lat="51.68724844783069" lon="14.41987985349676" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="47" lat="51.68741542338417" lon="14.41920594153390" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="10" lat="51.68756784707604" lon="14.41696284315088" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="48" lat="51.68758524124247" lon="14.41851889686621" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-RunwayMarkerBeacon01-->
+	<SceneryObject parentGroupID="6" groupIndex="9" lat="51.68770003653670" lon="14.41641982748618" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-159.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{20FE1A3E-5A73-4843-C1B4-3EAC9F70880C}" scale="2.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mikeaat-Waste-Dumpster04-->
+	<SceneryObject parentGroupID="3" groupIndex="15" lat="51.68670434184542" lon="14.41445090042005" alt="0.00000000000000" pitch="0.001305" bank="-0.001305" heading="54.730808" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C669358E-09D1-466C-0120-81C64FAD71B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Operation_Truck_Yellow-->
+	<SceneryObject parentGroupID="3" groupIndex="12" lat="51.68674535931128" lon="14.41410687426683" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-130.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C1445FF2-800A-4FFC-9F86-061D3ECE868D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pine05-->
+	<SceneryObject parentGroupID="3" groupIndex="16" lat="51.68620936354424" lon="14.41533018239122" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-130.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{145D8CDA-5378-4631-A877-86580A26C508}" scale="0.700000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Shrub03-->
+	<SceneryObject parentGroupID="10" groupIndex="4" lat="51.68613389346552" lon="14.41539117408225" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-130.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2188A366-9140-4501-87F0-5B4F348101D3}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject parentGroupID="3" groupIndex="11" lat="51.68650039322491" lon="14.41425349029250" alt="-2.46989848215091" pitch="0.001544" bank="-0.001544" heading="0.079941" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="tsr-DEU_flag" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject parentGroupID="3" groupIndex="10" lat="51.68652606185500" lon="14.41430447161577" alt="-2.50558571232008" pitch="0.001544" bank="-0.001544" heading="0.093266" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="tsr-DEU_flag" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Unknown-->
+	<SceneryObject parentGroupID="9" lat="51.68673664001246" lon="14.41507133292636" alt="0.00000000000000" pitch="0.001154" bank="-0.001154" heading="-115.165035" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3B18158E-C859-470E-9E2C-3DEFD828B14E}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="edap-windsock" parentGroupID="6" groupIndex="8" lat="51.68532976093676" lon="14.42320914807550" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-carport-->
+	<SceneryObject parentGroupID="2" lat="51.68726514433569" lon="14.41397944287240" alt="0.00000000000000" pitch="0.002281" bank="-0.002281" heading="133.565565" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7803849F-B667-4C0B-9116-0C8E50704D89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-container-20ft-->
+	<SceneryObject parentGroupID="5" lat="51.68690951035904" lon="14.41548387838085" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-36.056808" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D3E6290B-BFC7-4C5A-B08D-1A2522DFE14D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-container-20ft-var-->
+	<SceneryObject parentGroupID="5" groupIndex="2" lat="51.68695484238879" lon="14.41542890622176" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-36.273116" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4A816BA8-0CDE-486D-906A-3B11B42EDC8D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-d-fojn-->
+	<SceneryObject parentGroupID="3" lat="51.68658339895034" lon="14.41577654826611" alt="0.00000000000000" pitch="0.000710" bank="-0.000710" heading="-32.019524" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{25F99B0D-7F56-4D53-A79D-77129F4A4A74}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-fence-wood-->
+	<SceneryObject parentGroupID="5" groupIndex="1" lat="51.68690537599252" lon="14.41539802857451" alt="0.00000000000000" pitch="0.000587" bank="-0.000587" heading="-126.751741" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7A2438FD-5F27-4591-A98F-D5523A9B2891}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-gate-inner-->
+	<SceneryObject parentGroupID="3" groupIndex="2" lat="51.68685410443356" lon="14.41563205458274" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-35.246860" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{837A0734-1104-4F22-BA51-FB7FE01CCF0A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-guard-post-->
+	<SceneryObject parentGroupID="2" groupIndex="2" lat="51.68657693039356" lon="14.41397913888273" alt="0.00000000000000" pitch="0.000499" bank="-0.000499" heading="131.255144" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EB32E7EB-0967-4AEF-BB58-1EE7B96C300F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-hangar-a-->
+	<SceneryObject parentGroupID="2" groupIndex="5" lat="51.68639906721094" lon="14.41440222467774" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="53.454502" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{610862FB-464E-465B-BF18-CD047E931C5C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-hangar-b-->
+	<SceneryObject parentGroupID="2" groupIndex="3" lat="51.68620519408414" lon="14.41564903144350" alt="0.00000000000000" pitch="0.000997" bank="-0.000997" heading="143.616598" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{42873013-11C2-4E16-9F86-7C0BEBDFABD9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-hangar-for-->
+	<SceneryObject parentGroupID="2" groupIndex="4" lat="51.68578301223537" lon="14.41504113604125" alt="0.00000000000000" pitch="0.001093" bank="-0.001120" heading="-128.127000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{53C10684-A156-4DE5-B874-86D229608CC2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-main-building-->
+	<SceneryObject parentGroupID="2" groupIndex="1" lat="51.68688585136366" lon="14.41448337014940" alt="0.00000000000000" pitch="0.000929" bank="-0.000929" heading="-126.181010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F248F262-15F1-4E7A-9F2A-E327A94BAFC0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-service-building-->
+	<SceneryObject parentGroupID="2" groupIndex="7" lat="51.68705455998565" lon="14.41501730671943" alt="-0.10500000000000" pitch="0.001544" bank="-0.001544" heading="-124.774456" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{B53950C1-FE1B-4CBC-A2A0-7EA8C34D0EC3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: edap-tank-->
+	<SceneryObject parentGroupID="5" groupIndex="4" lat="51.68692642723948" lon="14.41544468682511" alt="0.00815525054122" pitch="0.000574" bank="-0.000574" heading="-126.288504" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{FD109826-F49C-4E69-8186-D8706E6ED60C}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="Parking Guardpost" parentGroupID="1" groupIndex="2" lat="51.68664974331190" lon="14.41405708808006" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking>
+			<Vertex lat="51.68659775034433" lon="14.41415299163036"/>
+			<Vertex lat="51.68673252688279" lon="14.41402781995941"/>
+			<Vertex lat="51.68670225799348" lon="14.41394713759416"/>
+			<Vertex lat="51.68656643802699" lon="14.41410040313631"/>
+		</CarParking>
+	</SceneryObject>
+	<SceneryObject displayName="Parking Carport" parentGroupID="1" groupIndex="3" lat="51.68726543652919" lon="14.41398293439895" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<CarParking>
+			<Vertex lat="51.68736730578576" lon="14.41417967270456"/>
+			<Vertex lat="51.68739371271176" lon="14.41413544373536"/>
+			<Vertex lat="51.68716433038995" lon="14.41378403882423"/>
+			<Vertex lat="51.68713639722926" lon="14.41383258233166"/>
+		</CarParking>
+	</SceneryObject>
+	<Polygon displayName="edap-premises" parentGroupID="10" groupIndex="3" altitude="84.17815399169922">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D5EF17D9-ABB6-4B63-983D-B975EA72B539}"/>
+		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeMSBuildings" guid="{F78A3074-8AD5-4B8B-92C4-C1C948BB7AA5}" type="UINT8" value="1"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="LandClassRemap" guid="{0A685EB0-0E01-44FE-B9EF-BFFFBC968ADE}" type="UINT8" value="2"/>
+		<Attribute name="ExcludeTIN" guid="{18B58CBF-AE02-4A19-8AA9-3809E8E73400}" type="UINT8" value="1"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
+		<Attribute name="Layer" guid="{9E2B4C3E-7D84-453F-9DCC-B6498FF46703}" type="UINT32" value="1"/>
+		<Attribute name="AirportSize" guid="{86A147E9-ACF2-4780-9D3C-416373ECB451}" type="UINT8" value="1"/>
+		<Attribute name="ExclusionFlags" guid="{4CACC252-E6DC-419A-B20C-16EC601DF70E}" type="UINT32" value="3"/>
+		<Vertex lat="51.68785825134336" lon="14.41492869287949"/>
+		<Vertex lat="51.68726602301192" lon="14.41579926675194"/>
+		<Vertex lat="51.68696795293408" lon="14.41539472328176"/>
+		<Vertex lat="51.68741358720151" lon="14.41435971496273"/>
+		<Vertex lat="51.68740884912455" lon="14.41415159111411"/>
+		<Vertex lat="51.68715731147933" lon="14.41376275753049"/>
+		<Vertex lat="51.68702538917638" lon="14.41400743217001"/>
+		<Vertex lat="51.68683672165773" lon="14.41389092808439"/>
+		<Vertex lat="51.68678849034375" lon="14.41395625586184"/>
+		<Vertex lat="51.68658868053608" lon="14.41382232072584"/>
+		<Vertex lat="51.68635772635277" lon="14.41414315710255"/>
+		<Vertex lat="51.68534039683113" lon="14.41526030745462"/>
+		<Vertex lat="51.68465234657881" lon="14.41606040025098"/>
+		<Vertex lat="51.68426033264423" lon="14.41624201264349"/>
+		<Vertex lat="51.68389724984213" lon="14.41659628106889"/>
+		<Vertex lat="51.68379525317737" lon="14.41653234974254"/>
+		<Vertex lat="51.68226044931856" lon="14.41763093921721"/>
+		<Vertex lat="51.68167458198635" lon="14.41833911472462"/>
+		<Vertex lat="51.68159775957828" lon="14.41866792415172"/>
+		<Vertex lat="51.68187841246091" lon="14.41940678725469"/>
+		<Vertex lat="51.68137312370617" lon="14.41968721027876"/>
+		<Vertex lat="51.68043877973525" lon="14.42026262591241"/>
+		<Vertex lat="51.68000073670174" lon="14.42053685326299"/>
+		<Vertex lat="51.68064261336720" lon="14.42229453442281"/>
+		<Vertex lat="51.68064466643520" lon="14.42466131290590"/>
+		<Vertex lat="51.68089163311495" lon="14.42549158940848"/>
+		<Vertex lat="51.68072135067437" lon="14.42649908697581"/>
+		<Vertex lat="51.67987736645487" lon="14.42636827953087"/>
+		<Vertex lat="51.67977225509022" lon="14.42684820179211"/>
+		<Vertex lat="51.67977542529690" lon="14.43194000371972"/>
+		<Vertex lat="51.68013149130915" lon="14.43220675709226"/>
+		<Vertex lat="51.68048692632834" lon="14.43217411415369"/>
+		<Vertex lat="51.68158671958765" lon="14.43250585916780"/>
+		<Vertex lat="51.68195137501809" lon="14.43031058698402"/>
+		<Vertex lat="51.68306369266776" lon="14.43059503782406"/>
+		<Vertex lat="51.68393113961246" lon="14.43102579207819"/>
+		<Vertex lat="51.68372995968257" lon="14.43255593610029"/>
+		<Vertex lat="51.68379297622064" lon="14.43305319505244"/>
+		<Vertex lat="51.68435554024200" lon="14.43276695759126"/>
+		<Vertex lat="51.68473980430613" lon="14.43252032021219"/>
+		<Vertex lat="51.68498435245263" lon="14.43198711017207"/>
+		<Vertex lat="51.68515165752991" lon="14.43138561345546"/>
+		<Vertex lat="51.68523116642362" lon="14.43057183178904"/>
+		<Vertex lat="51.68552779279014" lon="14.42946213392930"/>
+		<Vertex lat="51.68576518843463" lon="14.42884986020585"/>
+		<Vertex lat="51.68596531178895" lon="14.42835207105774"/>
+		<Vertex lat="51.68677497944089" lon="14.42732788088230"/>
+		<Vertex lat="51.68796136855477" lon="14.42508038257550"/>
+		<Vertex lat="51.68816583118947" lon="14.42454042982724"/>
+		<Vertex lat="51.68901607787087" lon="14.42198403534285"/>
+		<Vertex lat="51.68923746914825" lon="14.42104870043235"/>
+		<Vertex lat="51.68926828738071" lon="14.41991855038006"/>
+		<Vertex lat="51.68916394910850" lon="14.41837752268947"/>
+		<Vertex lat="51.68902765454388" lon="14.41683651916129"/>
+		<Vertex lat="51.68791450113391" lon="14.41483959070779"/>
+	</Polygon>
+	<Polygon displayName="around service building" parentGroupID="2" groupIndex="6" altitude="83.65208435058594">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{ED37CFF8-0E53-4BE2-96B2-DAF50A1CAB04}"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.000000"/>
+		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
+		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{B280675A-9D30-4A57-8F7C-23BADEDC8170}"/>
+		<Attribute name="MaterialFalloff" guid="{C17EBBDE-627D-4585-94F0-7C329CD69C4E}" type="FLOAT32" value="1.000000"/>
+		<Attribute name="MaterialRotation" guid="{A27E9C0F-D3F5-4FB2-B020-82179BDB622D}" type="FLOAT32" value="0.959931"/>
+		<Attribute name="Layer" guid="{9E2B4C3E-7D84-453F-9DCC-B6498FF46703}" type="UINT32" value="3"/>
+		<Attribute name="WaterType" guid="{3F8514F8-FAA8-4B94-AB7F-DC2078A4B888}" type="UINT32" value="0"/>
+		<Vertex lat="51.68695604959796" lon="14.41496665027563"/>
+		<Vertex lat="51.68696330610928" lon="14.41498376930284"/>
+		<Vertex lat="51.68695079479502" lon="14.41499763848798"/>
+		<Vertex lat="51.68695917219348" lon="14.41501618576273"/>
+		<Vertex lat="51.68697078979570" lon="14.41500291241600"/>
+		<Vertex lat="51.68701509725520" lon="14.41510595147744"/>
+		<Vertex lat="51.68700379528784" lon="14.41511911815181"/>
+		<Vertex lat="51.68701293092081" lon="14.41514024144878"/>
+		<Vertex lat="51.68702488047862" lon="14.41512721291251"/>
+		<Vertex lat="51.68703024709117" lon="14.41513881031198"/>
+		<Vertex lat="51.68712114807489" lon="14.41503649918417"/>
+		<Vertex lat="51.68704580286703" lon="14.41486072873977"/>
+	</Polygon>
+	<Polygon displayName="remove vegetation along rail line" parentGroupID="10" altitude="83.56565093994141">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{424F5234-A3D8-495A-B59C-40BEBCE695A3}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
+		<Vertex lat="51.68680129360326" lon="14.41313728345178"/>
+		<Vertex lat="51.68674769133260" lon="14.41305199313885"/>
+		<Vertex lat="51.68645415602958" lon="14.41343930478876"/>
+		<Vertex lat="51.68613181989272" lon="14.41383916345862"/>
+		<Vertex lat="51.68554111367034" lon="14.41453649598552"/>
+		<Vertex lat="51.68514352864688" lon="14.41498032876214"/>
+		<Vertex lat="51.68488252822306" lon="14.41526297299152"/>
+		<Vertex lat="51.68447930433540" lon="14.41567890474987"/>
+		<Vertex lat="51.68388818330577" lon="14.41624355380430"/>
+		<Vertex lat="51.68368508075248" lon="14.41642918623035"/>
+		<Vertex lat="51.68329435549354" lon="14.41674425217444"/>
+		<Vertex lat="51.68269091645775" lon="14.41719836418975"/>
+		<Vertex lat="51.68143243019708" lon="14.41801559275799"/>
+		<Vertex lat="51.67949526174029" lon="14.41894050523940"/>
+		<Vertex lat="51.67842126233649" lon="14.41931927638734"/>
+		<Vertex lat="51.67650807207887" lon="14.42004716280802"/>
+		<Vertex lat="51.67399223363442" lon="14.42086314193543"/>
+		<Vertex lat="51.67402338957207" lon="14.42098177162797"/>
+		<Vertex lat="51.67589865733257" lon="14.42034398421229"/>
+		<Vertex lat="51.67691074262891" lon="14.41997712683249"/>
+		<Vertex lat="51.67949381021245" lon="14.41905499555889"/>
+		<Vertex lat="51.68088730326360" lon="14.41841718262407"/>
+		<Vertex lat="51.68192696715877" lon="14.41783141159621"/>
+		<Vertex lat="51.68240182209099" lon="14.41752032420531"/>
+		<Vertex lat="51.68380717119466" lon="14.41642806253305"/>
+		<Vertex lat="51.68469231055848" lon="14.41560943236107"/>
+		<Vertex lat="51.68530382065833" lon="14.41493744076435"/>
+		<Vertex lat="51.68605986870193" lon="14.41408432949477"/>
+	</Polygon>
+	<Polygon parentGroupID="10" groupIndex="2" altitude="85.47358703613281">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9ECBB819-CAAC-4686-B941-CE81A2AA0440}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="127"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
+		<Attribute name="Layer" guid="{9E2B4C3E-7D84-453F-9DCC-B6498FF46703}" type="UINT32" value="2"/>
+		<Vertex lat="51.68699260372362" lon="14.41538592962628"/>
+		<Vertex lat="51.68720788609124" lon="14.41569044003242"/>
+		<Vertex lat="51.68725268746889" lon="14.41559399482170"/>
+		<Vertex lat="51.68718828882798" lon="14.41557352137758"/>
+		<Vertex lat="51.68715631476639" lon="14.41544949098818"/>
+		<Vertex lat="51.68710085037532" lon="14.41535886545646"/>
+		<Vertex lat="51.68716469910603" lon="14.41525270836081"/>
+		<Vertex lat="51.68724290826781" lon="14.41534697013198"/>
+		<Vertex lat="51.68733781486468" lon="14.41520514096466"/>
+		<Vertex lat="51.68728544320359" lon="14.41505682389405"/>
+		<Vertex lat="51.68718147951692" lon="14.41493972609116"/>
+	</Polygon>
+	<Polygon parentGroupID="10" groupIndex="1" altitude="84.56970214843750">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E0DA2714-85B0-4698-9935-19B77222477F}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="83"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
+		<Attribute name="Layer" guid="{9E2B4C3E-7D84-453F-9DCC-B6498FF46703}" type="UINT32" value="2"/>
+		<Attribute name="BiomeName" guid="{E5FA1B20-BB2F-40D5-913B-480C547CC9B8}" type="STRING" value="Deciduous_Cities"/>
+		<Vertex lat="51.68596419265700" lon="14.41507299828462"/>
+		<Vertex lat="51.68628328904411" lon="14.41469742186838"/>
+		<Vertex lat="51.68631806273678" lon="14.41477726860087"/>
+		<Vertex lat="51.68633811927911" lon="14.41475249757018"/>
+		<Vertex lat="51.68627335985325" lon="14.41460759127406"/>
+		<Vertex lat="51.68625862650317" lon="14.41462622543113"/>
+		<Vertex lat="51.68627145824568" lon="14.41466160103163"/>
+		<Vertex lat="51.68595184478689" lon="14.41504425094231"/>
+	</Polygon>
+	<Polygon parentGroupID="10" groupIndex="5" altitude="84.51878356933594">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{972485D0-B215-49B0-B69C-027A1477865F}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="84"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="8"/>
+		<Attribute name="Layer" guid="{9E2B4C3E-7D84-453F-9DCC-B6498FF46703}" type="UINT32" value="2"/>
+		<Attribute name="BiomeName" guid="{E5FA1B20-BB2F-40D5-913B-480C547CC9B8}" type="STRING" value="Deciduous_Cities"/>
+		<Vertex lat="51.68651082930287" lon="14.41426004625890"/>
+		<Vertex lat="51.68647790895022" lon="14.41419035771404"/>
+		<Vertex lat="51.68645816401424" lon="14.41421056980340"/>
+		<Vertex lat="51.68651666993561" lon="14.41433248749721"/>
+		<Vertex lat="51.68653477787375" lon="14.41431552264638"/>
+	</Polygon>
+	<ExclusionRectangle displayName="solar panel exclusion south" parentGroupID="8" latitudeMinimum="51.67952373202357" latitudeMaximum="51.68409647949174" longitudeMinimum="14.41618648683010" longitudeMaximum="14.43259291055401" excludeLibraryObjects="TRUE"/>
+	<ExclusionRectangle displayName="solar panel exclusion north" parentGroupID="8" groupIndex="2" latitudeMinimum="51.68570653331563" latitudeMaximum="51.68940848486987" longitudeMinimum="14.41904843945983" longitudeMaximum="14.42860290193970" excludeLibraryObjects="TRUE"/>
+	<Group displayName="cars" parentGroupID="3" groupIndex="8" groupID="1" groupGenerated="FALSE"/>
+	<Group displayName="custom buildings" groupIndex="4" groupID="2" groupGenerated="FALSE"/>
+	<Group displayName="details" groupIndex="1" groupID="3" groupGenerated="FALSE"/>
+	<Group displayName="environment fixes" groupIndex="2" groupID="4" groupGenerated="FALSE"/>
+	<Group displayName="fueling area" parentGroupID="3" groupIndex="4" groupID="5" groupGenerated="FALSE"/>
+	<Group displayName="markings" groupIndex="5" groupID="6" groupGenerated="FALSE"/>
+	<Group displayName="placeholders" groupIndex="7" groupID="7" groupGenerated="FALSE"/>
+	<Group displayName="solar panel objects and exclusions" groupIndex="3" groupID="8" groupGenerated="FALSE"/>
+	<Group displayName="traffic" groupID="9" groupGenerated="FALSE"/>
+	<Group displayName="vegetation" groupIndex="8" groupID="10" groupGenerated="FALSE"/>
+	<Airport displayName="Cottbus-Neuhausen" groupIndex="6" groupID="11" groupGenerated="FALSE" country="Germany" state="Brandenburg" city="Neuhausen" name="Verkehrslandeplatz Cottbus/Neuhausen" ident="EDAP" lat="51.68467185652466" lon="14.42313151131550" alt="84.52900537873433" magvar="355.119995" trafficScalar="1.000000" airportTestRadius="1000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+		<Group displayName="runways" parentGroupID="11" groupIndex="2" groupID="12" groupGenerated="FALSE"/>
+		<Group displayName="taxiways" parentGroupID="11" groupID="13" groupGenerated="FALSE"/>
+		<Group displayName="apron" parentGroupID="11" groupIndex="5" groupID="14" groupGenerated="FALSE"/>
+		<Group displayName="fence" parentGroupID="11" groupIndex="4" groupID="15" groupGenerated="FALSE"/>
+		<Group displayName="solar panels north" parentGroupID="11" groupIndex="3" groupID="16" groupGenerated="FALSE"/>
+		<Group displayName="solar panels south" parentGroupID="11" groupIndex="1" groupID="17" groupGenerated="FALSE"/>
+		<Group displayName="solar panels south west" parentGroupID="17" groupID="18" groupGenerated="FALSE"/>
+		<Group displayName="solar panels south center" parentGroupID="17" groupIndex="1" groupID="19" groupGenerated="FALSE"/>
+		<Group displayName="solar panels south east" parentGroupID="17" groupIndex="2" groupID="20" groupGenerated="FALSE"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="31" index="0" type="NORMAL" orientation="FORWARD" lat="51.68443244999169" lon="14.43048962577342"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="32" index="1" type="NORMAL" orientation="FORWARD" lat="51.68462142848016" lon="14.43059564728447"/>
+		<TaxiwayPoint displayName="Hold short 29" parentGroupID="13" groupIndex="35" index="2" type="HOLD_SHORT_NO_DRAW" orientation="REVERSE" lat="51.68472107140478" lon="14.43064046438855"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="37" index="3" type="NORMAL" orientation="FORWARD" lat="51.68480948537742" lon="14.43067291508120"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="38" index="4" type="NORMAL" orientation="FORWARD" lat="51.68489870794478" lon="14.43066322815262"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="41" index="5" type="NORMAL" orientation="FORWARD" lat="51.68498175409917" lon="14.43048927808963"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="42" index="6" type="NORMAL" orientation="FORWARD" lat="51.68507509788877" lon="14.43007821856196"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="45" index="7" type="NORMAL" orientation="FORWARD" lat="51.68528534798767" lon="14.42920852617028"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="46" index="8" type="NORMAL" orientation="FORWARD" lat="51.68551899013789" lon="14.42827413831153"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="49" index="9" type="NORMAL" orientation="FORWARD" lat="51.68571712209237" lon="14.42745235242342"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="50" index="10" type="NORMAL" orientation="FORWARD" lat="51.68603673612770" lon="14.42623248521471"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="53" index="11" type="NORMAL" orientation="FORWARD" lat="51.68635564317673" lon="14.42493815866206"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="54" index="12" type="NORMAL" orientation="FORWARD" lat="51.68665258412902" lon="14.42378583008261"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="57" index="13" type="NORMAL" orientation="FORWARD" lat="51.68701882588314" lon="14.42218095612734"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="58" index="14" type="NORMAL" orientation="FORWARD" lat="51.68732281317369" lon="14.42100580486334"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="61" index="15" type="NORMAL" orientation="FORWARD" lat="51.68777432849468" lon="14.41919259811892"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="62" index="16" type="NORMAL" orientation="FORWARD" lat="51.68816512850527" lon="14.41738556266159"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="65" index="17" type="NORMAL" orientation="FORWARD" lat="51.68815888213398" lon="14.41720174816091"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="66" index="18" type="NORMAL" orientation="FORWARD" lat="51.68810954444368" lon="14.41710441152832"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="69" index="19" type="NORMAL" orientation="FORWARD" lat="51.68801676141634" lon="14.41701322117118"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="71" index="20" type="NORMAL" orientation="FORWARD" lat="51.68779475280135" lon="14.41684896010167"/>
+		<TaxiwayPoint displayName="Hold short 11" parentGroupID="13" groupIndex="74" index="21" type="HOLD_SHORT_NO_DRAW" orientation="REVERSE" lat="51.68750668045902" lon="14.41666544637031"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="75" index="22" type="NORMAL" orientation="FORWARD" lat="51.68711807646515" lon="14.41641745544482"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="78" index="23" type="NORMAL" orientation="FORWARD" lat="51.68704159658871" lon="14.41636098054945"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="79" index="24" type="NORMAL" orientation="FORWARD" lat="51.68687139207823" lon="14.41595601347144"/>
+		<TaxiwayPoint displayName="DF" parentGroupID="13" groupIndex="81" index="27" type="NORMAL" orientation="FORWARD" lat="51.68682388586374" lon="14.41583085112311"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="109" index="32" type="NORMAL" orientation="FORWARD" lat="51.68666881781836" lon="14.41491685529013"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="116" index="33" type="NORMAL" orientation="FORWARD" lat="51.68673601599220" lon="14.41506969612591"/>
+		<TaxiwayPoint displayName="D1" parentGroupID="13" groupIndex="84" index="34" type="NORMAL" orientation="FORWARD" lat="51.68677753197157" lon="14.41571906033998"/>
+		<TaxiwayPoint displayName="D9" parentGroupID="13" groupIndex="87" index="35" type="NORMAL" orientation="FORWARD" lat="51.68658696963249" lon="14.41521624925808"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="105" index="36" type="NORMAL" orientation="FORWARD" lat="51.68660692045509" lon="14.41498292963747"/>
+		<TaxiwayPoint displayName="D9B" parentGroupID="13" groupIndex="89" index="37" type="NORMAL" orientation="FORWARD" lat="51.68659694504379" lon="14.41509958944778"/>
+		<TaxiwayPoint displayName="DY1" parentGroupID="13" groupIndex="106" index="40" type="NORMAL" orientation="FORWARD" lat="51.68653877892112" lon="14.41483192434325"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="108" index="41" type="NORMAL" orientation="FORWARD" lat="51.68646797548789" lon="14.41467905156049"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="70" index="42" type="NORMAL" orientation="FORWARD" lat="51.68618061425652" lon="14.42343314643426"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="86" index="44" type="NORMAL" orientation="FORWARD" lat="51.68664899702563" lon="14.41538595863851"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="95" index="45" type="NORMAL" orientation="FORWARD" lat="51.68644188551315" lon="14.41563971134925"/>
+		<TaxiwayPoint displayName="DX2" parentGroupID="13" groupIndex="100" index="46" type="NORMAL" orientation="FORWARD" lat="51.68634524561963" lon="14.41582416597261"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="91" index="47" type="NORMAL" orientation="FORWARD" lat="51.68654121795217" lon="14.41507796709747"/>
+		<TaxiwayPoint displayName="D4" parentGroupID="13" groupIndex="85" index="48" type="NORMAL" orientation="FORWARD" lat="51.68668391620022" lon="14.41547848923077"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="94" index="50" type="NORMAL" orientation="FORWARD" lat="51.68645689613183" lon="14.41513461847320"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="97" index="51" type="NORMAL" orientation="FORWARD" lat="51.68633206846639" lon="14.41527604538693"/>
+		<TaxiwayPoint displayName="VA1" parentGroupID="13" groupIndex="112" index="52" type="NORMAL" orientation="FORWARD" lat="51.68670390116119" lon="14.41485936037335"/>
+		<TaxiwayPoint displayName="VA5" parentGroupID="13" groupIndex="115" index="53" type="NORMAL" orientation="FORWARD" lat="51.68671848612353" lon="14.41479460557612"/>
+		<TaxiwayPoint displayName="VA3" parentGroupID="13" groupIndex="118" index="54" type="NORMAL" orientation="FORWARD" lat="51.68670960137938" lon="14.41473406414684"/>
+		<TaxiwayPoint displayName="VA4" parentGroupID="13" groupIndex="119" index="58" type="NORMAL" orientation="FORWARD" lat="51.68660184397456" lon="14.41449473242216"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="120" index="59" type="NORMAL" orientation="FORWARD" lat="51.68659366329706" lon="14.41443736253716"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="123" index="60" type="NORMAL" orientation="FORWARD" lat="51.68660100220782" lon="14.41439984204901"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="124" index="61" type="NORMAL" orientation="FORWARD" lat="51.68661271258687" lon="14.41434273220276"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="127" index="62" type="NORMAL" orientation="FORWARD" lat="51.68662300130791" lon="14.41428350686408"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="128" index="63" type="NORMAL" orientation="FORWARD" lat="51.68661528581332" lon="14.41423968741654"/>
+		<TaxiwayPoint displayName="RA2" parentGroupID="13" groupIndex="131" index="64" type="NORMAL" orientation="FORWARD" lat="51.68660562311069" lon="14.41418607067075"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="132" index="65" type="NORMAL" orientation="FORWARD" lat="51.68664271298329" lon="14.41414653226495"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="135" index="66" type="NORMAL" orientation="FORWARD" lat="51.68667663152433" lon="14.41411290695902"/>
+		<TaxiwayPoint parentGroupID="13" groupIndex="136" index="67" type="NORMAL" orientation="FORWARD" lat="51.68670292850554" lon="14.41408439711612"/>
+		<TaxiwayPoint displayName="D9A" parentGroupID="13" groupIndex="88" index="95" type="NORMAL" orientation="FORWARD" lat="51.68649011207840" lon="14.41533093515542"/>
+		<TaxiwayParking displayName="P1" parentGroupID="13" groupIndex="22" index="25" type="RAMP_GA_MEDIUM" lat="51.68680504794067" lon="14.41532293365211" heading="141.558029" radius="12.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Fuel" parentGroupID="13" groupIndex="82" index="26" type="FUEL" lat="51.68695981527792" lon="14.41568071117183" heading="325.528717" radius="12.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P2" parentGroupID="13" groupIndex="23" index="28" type="RAMP_GA_SMALL" lat="51.68691665611571" lon="14.41509922344781" heading="185.939240" radius="6.000000" name="PARKING" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P3" parentGroupID="13" groupIndex="24" index="29" type="RAMP_GA_SMALL" lat="51.68660378890130" lon="14.41475372825373" heading="323.216675" radius="6.000000" name="PARKING" number="3" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P4" parentGroupID="13" groupIndex="25" index="30" type="RAMP_GA_SMALL" lat="51.68652795529158" lon="14.41458423894747" heading="135.722672" radius="6.000000" name="PARKING" number="4" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P5" parentGroupID="13" groupIndex="26" index="31" type="RAMP_GA_SMALL" lat="51.68638813500733" lon="14.41500280476088" heading="229.994980" radius="6.000000" name="PARKING" number="5" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P6" parentGroupID="13" groupIndex="27" index="38" type="RAMP_GA_SMALL" lat="51.68627000964506" lon="14.41514298476841" heading="53.117813" radius="6.000000" name="PARKING" number="6" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P7" parentGroupID="13" groupIndex="28" index="39" type="RAMP_GA_SMALL" lat="51.68639325450808" lon="14.41544562105146" heading="323.338501" radius="6.000000" name="PARKING" number="7" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P8" parentGroupID="13" groupIndex="29" index="43" type="RAMP_GA_SMALL" lat="51.68628487054212" lon="14.41593521275919" heading="131.176208" radius="6.000000" name="PARKING" number="8" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="P9" parentGroupID="13" groupIndex="30" index="49" type="RAMP_GA_SMALL" lat="51.68643374663394" lon="14.41594641420969" heading="40.648979" radius="6.000000" name="PARKING" number="9" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="V1" parentGroupID="13" groupIndex="4" index="96" type="VEHICLE" lat="51.68674400835425" lon="14.41412326288998" heading="30.458334" radius="4.000000" name="PARKING" number="42" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<TaxiName index="1" name="A"/>
+		<TaxiName index="2" name="B"/>
+		<TaxiName index="3" name="C"/>
+		<TaxiName index="4" name="D"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="13" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="48" end="25" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="17" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="27" end="26" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="12" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="33" end="28" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="11" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="40" end="29" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="10" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="41" end="30" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="14" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="95" end="31" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="8" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="51" end="38" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="7" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="50" end="39" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="15" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="46" end="43" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="18" type="PARKING" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="46" end="49" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="3" type="PARKING" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="67" end="96" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="20" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="42" end="0" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="107" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="36" end="32" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="113" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="32" end="33" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="104" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="37" end="36" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="103" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="35" end="37" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="110" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="36" end="40" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="9" type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="41" end="40" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="16" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="20" end="42" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="93" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="44" end="45" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="99" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="45" end="46" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="90" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="37" end="47" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="92" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="47" end="50" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="96" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="50" end="51" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="5" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="35" end="95" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="111" type="VEHICLE" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="32" end="52" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="114" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="52" end="53" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="117" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="53" end="54" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="6" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="54" end="58" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="121" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="58" end="59" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="122" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="59" end="60" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="125" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="60" end="61" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="126" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="61" end="62" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="129" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="62" end="63" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="130" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="63" end="64" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="133" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="64" end="65" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="134" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="65" end="66" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="137" type="VEHICLE" surface="{FBE4F3AE-D7D6-4EC8-8BC5-5A381C368173}" centerLine="FALSE" start="66" end="67" width="20.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath displayName="taxiway A" parentGroupID="13" groupIndex="33" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="0" end="1" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="34" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="1" end="2" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="36" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="2" end="3" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="39" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="3" end="4" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="40" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="4" end="5" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="43" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="5" end="6" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="44" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="6" end="7" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="47" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="7" end="8" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="48" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="8" end="9" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="51" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="9" end="10" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="52" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="10" end="11" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="55" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="11" end="12" width="20.000000" weightLimit="0" name="1" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="19" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="12" end="42" width="20.000000" weightLimit="0" name="2" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="56" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="12" end="13" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="59" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="13" end="14" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="60" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="14" end="15" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="63" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="15" end="16" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="64" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="16" end="17" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="67" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="17" end="18" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="68" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="18" end="19" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="72" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="19" end="20" width="20.000000" weightLimit="0" name="3" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="73" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="20" end="21" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="76" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="21" end="22" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="77" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="22" end="23" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="80" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="23" end="24" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="21" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="24" end="27" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="83" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="27" end="34" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="98" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="44" end="35" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="101" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="48" end="44" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="13" groupIndex="102" type="TAXI" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" centerLine="FALSE" start="34" end="48" width="20.000000" weightLimit="0" name="4" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<Runway displayName="11-29" parentGroupID="12" lat="51.68605469765527" lon="14.42392455921123" alt="85.38004308752716" heading="111.59999084472656" length="1116.81884765625000" width="43.39472198486328" patternAltitude="304.79998779296875" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="FALSE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="SECONDARY" lat="51.68445731316053" lon="14.43040208440028" alt="85.40778101049364" heading="291.60000610351562"/>
+			<RunwayStart end="PRIMARY" lat="51.68676435240602" lon="14.42103539735752" alt="85.38147493172437" heading="111.59999847412109"/>
+		</Runway>
+		<Helipad displayName="Aeroheli Hangar Helipad" parentGroupID="13" groupIndex="1" type="NONE" lat="51.68672089531763" lon="14.41463591868772" alt="83.63125594798476" heading="325.061371" length="5.873025" width="6.169556" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Helipad displayName="Helipad" parentGroupID="13" type="NONE" lat="51.68673402997543" lon="14.41506747063066" alt="83.63186767045408" heading="325.061371" length="5.873025" width="6.169556" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Helipad displayName="Aeroheli Hangar Helipad" parentGroupID="13" groupIndex="2" type="NONE" lat="51.68681085107032" lon="14.41483465127769" alt="83.63186149857938" heading="325.061371" length="5.873025" width="6.169556" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<VectorPlacement parentGroupID="19" groupIndex="10" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.67997659319667" lon="14.42645648164717"/>
+			<Vertex lat="51.67987784012019" lon="14.42688346757794"/>
+			<Vertex lat="51.67987630997248" lon="14.42688088580100"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="2" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68002630953006" lon="14.43015187872349"/>
+			<Vertex lat="51.67986986055033" lon="14.43080149715070"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="9" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68006740845196" lon="14.42646643265069"/>
+			<Vertex lat="51.67988524039549" lon="14.42724440784766"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="5" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68018849744886" lon="14.42829728453900"/>
+			<Vertex lat="51.67982581313463" lon="14.42982817764377"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="8" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68015976235119" lon="14.42647177399575"/>
+			<Vertex lat="51.67986929640914" lon="14.42769290754166"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="7" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68024724894303" lon="14.42649288964319"/>
+			<Vertex lat="51.67982851554584" lon="14.42825889298656"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="4" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68027028446134" lon="14.42834752000574"/>
+			<Vertex lat="51.67984080158227" lon="14.43015335351615"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="6" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68033937153276" lon="14.42649268943640"/>
+			<Vertex lat="51.67981634492829" lon="14.42871774478041"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="3" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68034690877428" lon="14.42839242493961"/>
+			<Vertex lat="51.67984969038942" lon="14.43049104623739"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="5" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68042736840167" lon="14.42649504264948"/>
+			<Vertex lat="51.67984080196296" lon="14.42898755583066"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="38" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68019155389010" lon="14.42052537862610"/>
+			<Vertex lat="51.68013425065996" lon="14.42076766295490"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="4" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68051619353509" lon="14.42651712583272"/>
+			<Vertex lat="51.67982133812497" lon="14.42946029738135"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68050923175576" lon="14.42849372493273"/>
+			<Vertex lat="51.67985839960550" lon="14.43123473573206"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="10" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68059412681520" lon="14.42853169725405"/>
+			<Vertex lat="51.67985477323661" lon="14.43163148410473"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="36" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68031074252980" lon="14.42042170790869"/>
+			<Vertex lat="51.68018908823429" lon="14.42093850506655"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="1" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68042824982859" lon="14.42844573182211"/>
+			<Vertex lat="51.68011011648991" lon="14.42979582140033"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="9" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68067160858243" lon="14.42858709496973"/>
+			<Vertex lat="51.67987248200919" lon="14.43194171934690"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="35" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68040338857642" lon="14.42039373257974"/>
+			<Vertex lat="51.68024224859046" lon="14.42108665663624"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="8" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68074952967649" lon="14.42863952501275"/>
+			<Vertex lat="51.67995180509467" lon="14.43198920045165"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="33" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68049802264262" lon="14.42038059721321"/>
+			<Vertex lat="51.68029521267528" lon="14.42125182789570"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="3" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68059887803673" lon="14.42655331376428"/>
+			<Vertex lat="51.68020345779892" lon="14.42824501201446"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="7" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68082838271833" lon="14.42868613450467"/>
+			<Vertex lat="51.68003816920104" lon="14.43202843764720"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="2" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68065641778890" lon="14.42668441835528"/>
+			<Vertex lat="51.68028828041007" lon="14.42827690076501"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="32" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68061720163978" lon="14.42026242250003"/>
+			<Vertex lat="51.68035076280942" lon="14.42140301558562"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="20" groupIndex="6" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68090577520793" lon="14.42873805910598"/>
+			<Vertex lat="51.68011105149244" lon="14.43208510825874"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="30" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68073135925400" lon="14.42018214014619"/>
+			<Vertex lat="51.68040727553170" lon="14.42154471981721"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68073550439183" lon="14.42715302109594"/>
+			<Vertex lat="51.68044069195856" lon="14.42839373060057"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="19" groupIndex="1" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68085132384415" lon="14.42624441270706"/>
+			<Vertex lat="51.68043732965429" lon="14.42802223145529"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="29" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68083468973326" lon="14.42009273627690"/>
+			<Vertex lat="51.68046358917564" lon="14.42169715131869"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="27" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68093781874827" lon="14.42002991298786"/>
+			<Vertex lat="51.68051410254640" lon="14.42185294944212"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="70" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68087161537581" lon="14.42150801813457"/>
+			<Vertex lat="51.68068724252588" lon="14.42227565121348"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="26" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68105005735497" lon="14.41995849864601"/>
+			<Vertex lat="51.68057221924217" lon="14.42200030915348"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="3" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68118251039318" lon="14.42558875882873"/>
+			<Vertex lat="51.68052366739965" lon="14.42843558413822"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="69" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68101893730613" lon="14.42125188982438"/>
+			<Vertex lat="51.68069398706956" lon="14.42264375436886"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="62" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68103801657207" lon="14.42274086948360"/>
+			<Vertex lat="51.68067683355227" lon="14.42425542394770"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="24" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68115251347739" lon="14.41992506860793"/>
+			<Vertex lat="51.68063299067965" lon="14.42214045861996"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="67" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68110753817408" lon="14.42130082621626"/>
+			<Vertex lat="51.68068981091118" lon="14.42305526723236"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="65" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68118540279441" lon="14.42135518024864"/>
+			<Vertex lat="51.68068129115547" lon="14.42347971754475"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="1" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68126690106524" lon="14.42563238552765"/>
+			<Vertex lat="51.68060105659291" lon="14.42848404953324"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="60" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68118297004800" lon="14.42252195396743"/>
+			<Vertex lat="51.68071718350257" lon="14.42449116882645"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="5" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68111445676050" lon="14.42553530906208"/>
+			<Vertex lat="51.68081913742159" lon="14.42677482064668"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="63" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68126450845439" lon="14.42137996327842"/>
+			<Vertex lat="51.68067868655940" lon="14.42386872594657"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="9" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68135168766447" lon="14.42567456599539"/>
+			<Vertex lat="51.68067877089107" lon="14.42852958733358"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="59" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68126238051109" lon="14.42257172472370"/>
+			<Vertex lat="51.68079798351595" lon="14.42454336653412"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="8" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68142887653105" lon="14.42572892787646"/>
+			<Vertex lat="51.68075889512306" lon="14.42857822342546"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="57" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68134231875192" lon="14.42262815417759"/>
+			<Vertex lat="51.68087860491450" lon="14.42458890179818"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="23" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68127109118331" lon="14.41980818312305"/>
+			<Vertex lat="51.68095982268007" lon="14.42115200002366"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="52" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68127376824291" lon="14.42445004378648"/>
+			<Vertex lat="51.68104237366579" lon="14.42542478250488"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="6" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68150929779385" lon="14.42577684342572"/>
+			<Vertex lat="51.68083843509352" lon="14.42862932892871"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="56" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68142233370166" lon="14.42268439772026"/>
+			<Vertex lat="51.68093534684078" lon="14.42473047776829"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="21" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68137265142093" lon="14.41977550067601"/>
+			<Vertex lat="51.68103806401536" lon="14.42119666871142"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="54" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68150407694974" lon="14.42271709092052"/>
+			<Vertex lat="51.68097073757941" lon="14.42495719121458"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="2" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68159403206037" lon="14.42581292191301"/>
+			<Vertex lat="51.68091625433957" lon="14.42868908315475"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="53" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68158036351218" lon="14.42277412259890"/>
+			<Vertex lat="51.68100533767210" lon="14.42519598827003"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="20" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68147853383220" lon="14.41969777380692"/>
+			<Vertex lat="51.68111280281016" lon="14.42125992600492"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="18" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68158953799192" lon="14.41964274792444"/>
+			<Vertex lat="51.68119863446272" lon="14.42129375835799"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="48" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68174153371401" lon="14.42286888820764"/>
+			<Vertex lat="51.68113145664018" lon="14.42546029705012"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="15" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68178380224405" lon="14.41958421058431"/>
+			<Vertex lat="51.68111169606313" lon="14.42243003999888"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="17" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68170131188353" lon="14.41955842969143"/>
+			<Vertex lat="51.68128011341484" lon="14.42133892815686"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="50" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68166381143823" lon="14.42281707123145"/>
+			<Vertex lat="51.68136497099336" lon="14.42406899311436"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="47" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68181984583268" lon="14.42292711756656"/>
+			<Vertex lat="51.68120899530904" lon="14.42551268766980"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="14" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68186407503851" lon="14.41962749925806"/>
+			<Vertex lat="51.68119511178014" lon="14.42247655334942"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="45" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68189892369577" lon="14.42297374688414"/>
+			<Vertex lat="51.68128944111794" lon="14.42556182494544"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="13" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68194234996412" lon="14.41968143654457"/>
+			<Vertex lat="51.68127550540446" lon="14.42253107943848"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="44" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68197756980322" lon="14.42302306499371"/>
+			<Vertex lat="51.68136935470033" lon="14.42561312656684"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="64" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68171238515322" lon="14.41833164396085"/>
+			<Vertex lat="51.68164000040047" lon="14.41864476488795"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="12" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68202726758690" lon="14.41972722735508"/>
+			<Vertex lat="51.68135522897200" lon="14.42257702612122"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="42" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68205762065720" lon="14.42307359585013"/>
+			<Vertex lat="51.68144660181228" lon="14.42566003137668"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="61" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68182384653466" lon="14.41820655832698"/>
+			<Vertex lat="51.68168482957591" lon="14.41879489567856"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="11" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68210614462253" lon="14.41977086952066"/>
+			<Vertex lat="51.68143413054182" lon="14.42262257664219"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="77" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68194474138861" lon="14.42161893729653"/>
+			<Vertex lat="51.68166880187888" lon="14.42277207745419"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="41" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68213757737237" lon="14.42311764398234"/>
+			<Vertex lat="51.68152755740469" lon="14.42571354544904"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="7" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68218346133434" lon="14.41982297097544"/>
+			<Vertex lat="51.68151160714670" lon="14.42267634634259"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="58" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68195228040355" lon="14.41810204410981"/>
+			<Vertex lat="51.68174698742583" lon="14.41895058751345"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="39" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68221776245792" lon="14.42317727701007"/>
+			<Vertex lat="51.68160504522550" lon="14.42576407437771"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="78" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68226069643782" lon="14.41986563790350"/>
+			<Vertex lat="51.68159239350584" lon="14.42271959558620"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="55" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68207068191382" lon="14.41798425467889"/>
+			<Vertex lat="51.68180420505253" lon="14.41910402519446"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="51" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68218832632341" lon="14.41785627197578"/>
+			<Vertex lat="51.68186270740763" lon="14.41925354501409"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="75" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68242489910372" lon="14.41996981724355"/>
+			<Vertex lat="51.68175174366258" lon="14.42281993362306"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="49" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68233132968910" lon="14.41764867924684"/>
+			<Vertex lat="51.68187593125606" lon="14.41957069238265"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="74" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68250244049708" lon="14.42002078112470"/>
+			<Vertex lat="51.68183285033553" lon="14.42286949581771"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="46" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68244337598721" lon="14.41756453257146"/>
+			<Vertex lat="51.68195733337995" lon="14.41961809614299"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="76" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68234661059580" lon="14.41991555490863"/>
+			<Vertex lat="51.68207300670242" lon="14.42106126073416"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="73" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68258283725338" lon="14.42006774203509"/>
+			<Vertex lat="51.68190892352869" lon="14.42291881007647"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="43" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68254574629847" lon="14.41751691916096"/>
+			<Vertex lat="51.68204129510193" lon="14.41965891294664"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="72" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68266410461868" lon="14.42012064114163"/>
+			<Vertex lat="51.68199365507059" lon="14.42297031580071"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="40" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68266545059781" lon="14.41739386621903"/>
+			<Vertex lat="51.68211811850878" lon="14.41971622827895"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="71" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68274526047092" lon="14.42016001894940"/>
+			<Vertex lat="51.68207073172586" lon="14.42301748042426"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="37" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68276708993077" lon="14.41735091753473"/>
+			<Vertex lat="51.68219860393802" lon="14.41975534415969"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="68" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68282810232773" lon="14.42020822726652"/>
+			<Vertex lat="51.68215297441980" lon="14.42305675430989"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="28" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68260238866861" lon="14.41920535287374"/>
+			<Vertex lat="51.68243870746433" lon="14.41991262539658"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="66" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68290324708146" lon="14.42025231574555"/>
+			<Vertex lat="51.68222935484637" lon="14.42310047118731"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="34" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68287839747701" lon="14.41726131827669"/>
+			<Vertex lat="51.68227465149855" lon="14.41980664309018"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="31" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68297936272848" lon="14.41721861223970"/>
+			<Vertex lat="51.68235818369759" lon="14.41985920688000"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="22" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68319137986671" lon="14.41709717603985"/>
+			<Vertex lat="51.68251637393262" lon="14.41995700643478"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="25" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68306730019074" lon="14.41723609542653"/>
+			<Vertex lat="51.68272856742298" lon="14.41867021337910"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="19" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68331086070643" lon="14.41696430595650"/>
+			<Vertex lat="51.68260060901930" lon="14.42000693424881"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="16" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68342763980358" lon="14.41687055094134"/>
+			<Vertex lat="51.68267815650986" lon="14.42005444712294"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="10" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68353569444353" lon="14.41678764539743"/>
+			<Vertex lat="51.68275965708276" lon="14.42010366685021"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" groupIndex="4" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68365093244960" lon="14.41669688002956"/>
+			<Vertex lat="51.68283654321814" lon="14.42015618936379"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="18" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68376009771776" lon="14.41662613866913"/>
+			<Vertex lat="51.68291669843616" lon="14.42020131834511"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 23)" parentGroupID="16" groupIndex="40" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68625403850672" lon="14.42668802854452"/>
+			<Vertex lat="51.68588938431927" lon="14.42822418458368"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 25)" parentGroupID="16" groupIndex="39" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68634184377790" lon="14.42676169116111"/>
+			<Vertex lat="51.68606144077754" lon="14.42794474309341"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 26)" parentGroupID="16" groupIndex="36" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68643661166151" lon="14.42682994275770"/>
+			<Vertex lat="51.68622434116080" lon="14.42772745458880"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 27)" parentGroupID="16" groupIndex="35" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68652859673287" lon="14.42688036011303"/>
+			<Vertex lat="51.68635631485738" lon="14.42761026231594"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 24)" parentGroupID="16" groupIndex="41" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68676083616198" lon="14.42456398895595"/>
+			<Vertex lat="51.68627067284055" lon="14.42662617325489"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 28)" parentGroupID="16" groupIndex="33" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68662450781443" lon="14.42693580109742"/>
+			<Vertex lat="51.68650598263995" lon="14.42744039299374"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 24)" parentGroupID="16" groupIndex="38" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68685268231835" lon="14.42462071064200"/>
+			<Vertex lat="51.68636251899692" lon="14.42668289494095"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 25)" parentGroupID="16" groupIndex="37" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68694947245339" lon="14.42468048571823"/>
+			<Vertex lat="51.68645930913195" lon="14.42674267001717"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 26)" parentGroupID="16" groupIndex="34" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68704012605397" lon="14.42473647114048"/>
+			<Vertex lat="51.68654996273254" lon="14.42679865543942"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 29)" parentGroupID="16" groupIndex="25" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68692232932094" lon="14.42612165672390"/>
+			<Vertex lat="51.68667664718289" lon="14.42715917024761"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 27)" parentGroupID="16" groupIndex="32" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68713524971072" lon="14.42479521730789"/>
+			<Vertex lat="51.68664508638929" lon="14.42685740160683"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 22)" parentGroupID="16" groupIndex="42" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68726247850966" lon="14.42246153496156"/>
+			<Vertex lat="51.68678114394853" lon="14.42448671690816"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 29)" parentGroupID="16" groupIndex="27" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68732257819298" lon="14.42491090736456"/>
+			<Vertex lat="51.68685447279199" lon="14.42688064148403"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 28)" parentGroupID="16" groupIndex="26" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68722551325438" lon="14.42485096207428"/>
+			<Vertex lat="51.68697983111634" lon="14.42588847559798"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 21)" parentGroupID="16" groupIndex="43" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68735037026254" lon="14.42251581509002"/>
+			<Vertex lat="51.68686903570141" lon="14.42454099703663"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 20)" parentGroupID="16" groupIndex="44" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68744875336071" lon="14.42257657457244"/>
+			<Vertex lat="51.68696741879958" lon="14.42460175651905"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 29)" parentGroupID="16" groupIndex="28" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68741762581806" lon="14.42496960693459"/>
+			<Vertex lat="51.68704301588794" lon="14.42654748087853"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 19)" parentGroupID="16" groupIndex="45" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68754230561554" lon="14.42263435074998"/>
+			<Vertex lat="51.68706097105441" lon="14.42465953269658"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 29)" parentGroupID="16" groupIndex="29" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68750643303412" lon="14.42502445272658"/>
+			<Vertex lat="51.68722704941160" lon="14.42620321176243"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 18)" parentGroupID="16" groupIndex="46" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68763410091329" lon="14.42269104198707"/>
+			<Vertex lat="51.68715276635216" lon="14.42471622393367"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 17)" parentGroupID="16" groupIndex="49" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68758793946761" lon="14.42381594786851"/>
+			<Vertex lat="51.68734645859573" lon="14.42483584538408"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 17)" parentGroupID="16" groupIndex="47" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68772596429106" lon="14.42274777537887"/>
+			<Vertex lat="51.68724462972993" lon="14.42477295732547"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 28)" parentGroupID="16" groupIndex="31" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68760232695655" lon="14.42508367532056"/>
+			<Vertex lat="51.68741912933401" lon="14.42585929431551"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 22)" parentGroupID="16" groupIndex="61" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68777176563000" lon="14.42033083839573"/>
+			<Vertex lat="51.68728298326860" lon="14.42238720470068"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 21)" parentGroupID="16" groupIndex="60" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68785822016308" lon="14.42038077441560"/>
+			<Vertex lat="51.68736927551409" lon="14.42243782444160"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 29)" parentGroupID="16" groupIndex="30" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68768900230918" lon="14.42513720483597"/>
+			<Vertex lat="51.68756984640925" lon="14.42564440739274"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 16)" parentGroupID="16" groupIndex="48" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68791496448605" lon="14.42286449930968"/>
+			<Vertex lat="51.68743362992493" lon="14.42488968125628"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 20)" parentGroupID="16" groupIndex="59" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68795641197200" lon="14.42044142905667"/>
+			<Vertex lat="51.68746546286127" lon="14.42250687749683"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 17)" parentGroupID="16" groupIndex="50" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68782418483671" lon="14.42280843497370"/>
+			<Vertex lat="51.68764519110663" lon="14.42356642720310"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 15)" parentGroupID="16" groupIndex="24" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68800893048314" lon="14.42292253160834"/>
+			<Vertex lat="51.68752759592201" lon="14.42494771355494"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 19)" parentGroupID="16" groupIndex="58" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68804786260927" lon="14.42049790822089"/>
+			<Vertex lat="51.68755772338835" lon="14.42255997007564"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 14)" parentGroupID="16" groupIndex="23" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68809797870485" lon="14.42297752686349"/>
+			<Vertex lat="51.68761664414372" lon="14.42500270881010"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 18)" parentGroupID="16" groupIndex="57" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68814141915315" lon="14.42055568809063"/>
+			<Vertex lat="51.68765072874065" lon="14.42262006136795"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 13)" parentGroupID="16" groupIndex="14" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68801195049596" lon="14.41931294190080"/>
+			<Vertex lat="51.68779163605010" lon="14.42026261275018"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 13)" parentGroupID="16" groupIndex="22" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68819093092790" lon="14.42303493330091"/>
+			<Vertex lat="51.68770959636677" lon="14.42506011524752"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 17)" parentGroupID="16" groupIndex="55" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68808689715436" lon="14.42169721247840"/>
+			<Vertex lat="51.68783944575334" lon="14.42274211500516"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 17)" parentGroupID="16" groupIndex="56" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68823760150141" lon="14.42061508976609"/>
+			<Vertex lat="51.68774715868897" lon="14.42267842620003"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 12)" parentGroupID="16" groupIndex="13" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68812006342224" lon="14.41927000472213"/>
+			<Vertex lat="51.68787652747824" lon="14.42031700286112"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 12)" parentGroupID="16" groupIndex="20" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68828238423720" lon="14.42309600796441"/>
+			<Vertex lat="51.68779973110472" lon="14.42512672189864"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 11)" parentGroupID="16" groupIndex="12" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68821765699788" lon="14.41933125740510"/>
+			<Vertex lat="51.68797412105388" lon="14.42037825554409"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 15)" parentGroupID="16" groupIndex="53" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68841917169598" lon="14.42073832731858"/>
+			<Vertex lat="51.68793009319848" lon="14.42279595995285"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 10)" parentGroupID="16" groupIndex="11" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68831148204188" lon="14.41938899676053"/>
+			<Vertex lat="51.68806794609787" lon="14.42043599489953"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 11)" parentGroupID="16" groupIndex="18" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68837122307664" lon="14.42315962355795"/>
+			<Vertex lat="51.68802198546680" lon="14.42463115722714"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 16)" parentGroupID="16" groupIndex="54" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68832848343290" lon="14.42068465438842"/>
+			<Vertex lat="51.68814728631103" lon="14.42145186739713"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 14)" parentGroupID="16" groupIndex="52" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68851182412678" lon="14.42080444902210"/>
+			<Vertex lat="51.68802313128128" lon="14.42286046859588"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 9)" parentGroupID="16" groupIndex="10" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68840698059762" lon="14.41944796309367"/>
+			<Vertex lat="51.68816344465362" lon="14.42049496123266"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 13)" parentGroupID="16" groupIndex="51" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68860078714652" lon="14.42086362285555"/>
+			<Vertex lat="51.68811058819873" lon="14.42292595700166"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 8)" parentGroupID="16" groupIndex="9" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68850919955745" lon="14.41944823801194"/>
+			<Vertex lat="51.68825605289721" lon="14.42054436597496"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 7)" parentGroupID="16" groupIndex="8" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68852338914624" lon="14.41985232129029"/>
+			<Vertex lat="51.68834469084200" lon="14.42060910648269"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 12)" parentGroupID="16" groupIndex="21" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68869293087026" lon="14.42093092133459"/>
+			<Vertex lat="51.68820420539482" lon="14.42298708073562"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 11)" parentGroupID="16" groupIndex="19" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68878475943991" lon="14.42099040438656"/>
+			<Vertex lat="51.68829767209304" lon="14.42303970348403"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 6)" parentGroupID="16" groupIndex="7" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68872684420746" lon="14.41942675737616"/>
+			<Vertex lat="51.68843702771158" lon="14.42067808663231"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 8)" parentGroupID="16" groupIndex="15" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68864245733172" lon="14.41934797137560"/>
+			<Vertex lat="51.68858494542472" lon="14.41959678281126"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 10)" parentGroupID="16" groupIndex="17" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68887402288387" lon="14.42105223839438"/>
+			<Vertex lat="51.68838869289364" lon="14.42309417854538"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 5)" parentGroupID="16" groupIndex="6" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68882812264602" lon="14.41944968015807"/>
+			<Vertex lat="51.68852821812475" lon="14.42073273415273"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 9)" parentGroupID="16" groupIndex="16" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68896448571580" lon="14.42112172106281"/>
+			<Vertex lat="51.68840530512097" lon="14.42347319391351"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 4)" parentGroupID="16" groupIndex="5" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68891342268652" lon="14.41951729831081"/>
+			<Vertex lat="51.68861351816525" lon="14.42080035230547"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 3)" parentGroupID="16" groupIndex="4" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68902754716625" lon="14.41947536669244"/>
+			<Vertex lat="51.68870877063245" lon="14.42085346673068"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="16" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68919617902030" lon="14.42063289413334"/>
+			<Vertex lat="51.68874601928339" lon="14.42252165936859"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 2)" parentGroupID="16" groupIndex="3" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68915501468999" lon="14.41940768654306"/>
+			<Vertex lat="51.68879846301160" lon="14.42091785280027"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy 1)" parentGroupID="16" groupIndex="2" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68917666787491" lon="14.41977581857070"/>
+			<Vertex lat="51.68889121960372" lon="14.42098625660160"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="Vector placement pannello10x3 (copy)" parentGroupID="16" groupIndex="1" profile="{7751F206-F893-43BB-B32D-DF03A71C265D}" spacing="18.000000" heading="90.000000" scale="4.600000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE" castShadow="FALSE">
+			<Vertex lat="51.68919085672398" lon="14.42016401688745"/>
+			<Vertex lat="51.68898589853995" lon="14.42103572410578"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="outer fence north" parentGroupID="15" groupIndex="4" profile="{085A0232-028F-4B12-94CD-1C70AB541601}" spacing="13.600000" heading="0.000000" scale="1.000000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE">
+			<Vertex lat="51.68808666315999" lon="14.42466552145787"/>
+			<Vertex lat="51.68786657152153" lon="14.42518584251463"/>
+			<Vertex lat="51.68772068172348" lon="14.42543295942099"/>
+			<Vertex lat="51.68766758557033" lon="14.42556497906885"/>
+			<Vertex lat="51.68755780913150" lon="14.42577812471543"/>
+			<Vertex lat="51.68672609913223" lon="14.42727751231369"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="outer fence north" parentGroupID="15" groupIndex="3" profile="{085A0232-028F-4B12-94CD-1C70AB541601}" spacing="13.600000" heading="0.000000" scale="1.000000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE">
+			<Vertex lat="51.68872362926107" lon="14.42277772966080"/>
+			<Vertex lat="51.68824381351290" lon="14.42407426604416"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="outer fence east" parentGroupID="15" groupIndex="1" profile="{085A0232-028F-4B12-94CD-1C70AB541601}" spacing="13.600000" heading="0.000000" scale="1.000000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE">
+			<Vertex lat="51.68791365734539" lon="14.41487186324154"/>
+			<Vertex lat="51.68840710350606" lon="14.41566686934090"/>
+			<Vertex lat="51.68884151641687" lon="14.41647569840019"/>
+			<Vertex lat="51.68899750441543" lon="14.41680620855226"/>
+			<Vertex lat="51.68905299811303" lon="14.41942928225034"/>
+		</VectorPlacement>
+		<VectorPlacement displayName="inner fence" parentGroupID="15" profile="{A27385FF-6617-40C4-8331-FEE2A78B0794}" spacing="2.400000" heading="0.000000" scale="1.000000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE">
+			<Vertex lat="51.68589714928003" lon="14.41591144427902"/>
+			<Vertex lat="51.68626384046392" lon="14.41631828822362"/>
+		</VectorPlacement>
+		<VectorPlacement parentGroupID="15" groupIndex="2" profile="{A27385FF-6617-40C4-8331-FEE2A78B0794}" spacing="2.400000" heading="0.000000" scale="1.000000" scaleDelta="0.000000" rotation="Follow edge" avoidDiscontinuity="TRUE" adjustScalingAlongPath="TRUE">
+			<Vertex lat="51.68661752823560" lon="14.41590276736949"/>
+			<Vertex lat="51.68624712014625" lon="14.41631948317108"/>
+		</VectorPlacement>
+		<Aprons>
+			<Apron displayName="Grass" parentGroupID="14" groupIndex="1" surface="{B8D6CC1D-DEA9-4A20-8BB6-123149776A7C}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="67" green="95" blue="63" alpha="255" override="TRUE"/>
+				<Vertex lat="51.68580780356714" lon="14.41598030823502"/>
+				<Vertex lat="51.68549393704863" lon="14.41551908493169"/>
+				<Vertex lat="51.68543098853342" lon="14.41545381941097"/>
+				<Vertex lat="51.68539306973663" lon="14.41546467601678"/>
+				<Vertex lat="51.68526802148715" lon="14.41561439342105"/>
+				<Vertex lat="51.68550239482430" lon="14.41616405914902"/>
+				<Vertex lat="51.68564539680671" lon="14.41624495514914"/>
+			</Apron>
+			<Apron displayName="Grass" parentGroupID="14" groupIndex="5" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="10.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="80" green="103" blue="70" alpha="255" override="TRUE"/>
+				<Vertex lat="51.68574226155648" lon="14.41493741182350"/>
+				<Vertex lat="51.68582748695098" lon="14.41519578842584"/>
+				<Vertex lat="51.68580166477000" lon="14.41524294516431"/>
+				<Vertex lat="51.68594385534166" lon="14.41550870643554"/>
+				<Vertex lat="51.68597619049262" lon="14.41565572079694"/>
+				<Vertex lat="51.68591275841348" lon="14.41575621181429"/>
+				<Vertex lat="51.68583813552430" lon="14.41584483543868"/>
+				<Vertex lat="51.68575788172026" lon="14.41573634029784"/>
+				<Vertex lat="51.68568697479418" lon="14.41554882955311"/>
+				<Vertex lat="51.68568854413434" lon="14.41545669059822"/>
+				<Vertex lat="51.68565866163981" lon="14.41539965326068"/>
+				<Vertex lat="51.68565594268595" lon="14.41533929394311"/>
+				<Vertex lat="51.68562120402066" lon="14.41524745705379"/>
+				<Vertex lat="51.68563840513884" lon="14.41511649047075"/>
+				<Vertex lat="51.68570721231314" lon="14.41497952368723"/>
+			</Apron>
+			<Apron displayName="Grass" parentGroupID="14" groupIndex="4" surface="{B8D6CC1D-DEA9-4A20-8BB6-123149776A7C}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="80" green="103" blue="70" alpha="255" override="TRUE"/>
+				<Vertex lat="51.68626488335055" lon="14.41631017470219"/>
+				<Vertex lat="51.68601851988400" lon="14.41603600356180"/>
+				<Vertex lat="51.68614132188364" lon="14.41589053380831"/>
+				<Vertex lat="51.68615331325682" lon="14.41591489258749"/>
+				<Vertex lat="51.68639496423987" lon="14.41563228185820"/>
+				<Vertex lat="51.68638987137194" lon="14.41562106576517"/>
+				<Vertex lat="51.68640109533929" lon="14.41560780592756"/>
+				<Vertex lat="51.68638508204163" lon="14.41556407839745"/>
+				<Vertex lat="51.68639282522297" lon="14.41549631206888"/>
+				<Vertex lat="51.68654800239840" lon="14.41530076001586"/>
+				<Vertex lat="51.68659992922282" lon="14.41531609083535"/>
+				<Vertex lat="51.68676020306392" lon="14.41573457420586"/>
+			</Apron>
+			<Apron displayName="Grass" parentGroupID="14" groupIndex="3" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="5.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="90" green="103" blue="70" alpha="255" override="TRUE"/>
+				<Vertex lat="51.68625674821973" lon="14.41437659610270"/>
+				<Vertex lat="51.68617638729285" lon="14.41446595431901"/>
+				<Vertex lat="51.68626324959934" lon="14.41465654815608"/>
+				<Vertex lat="51.68627073687098" lon="14.41469434166601"/>
+				<Vertex lat="51.68629268815800" lon="14.41469386332752"/>
+				<Vertex lat="51.68631664653881" lon="14.41474089104632"/>
+				<Vertex lat="51.68635310977573" lon="14.41482602349905"/>
+				<Vertex lat="51.68634746434489" lon="14.41489029336105"/>
+				<Vertex lat="51.68649542322201" lon="14.41527973951768"/>
+				<Vertex lat="51.68655869146166" lon="14.41520482482054"/>
+				<Vertex lat="51.68655752735097" lon="14.41517709025774"/>
+				<Vertex lat="51.68658581161347" lon="14.41501387825874"/>
+				<Vertex lat="51.68658721137824" lon="14.41499206753001"/>
+				<Vertex lat="51.68658161955479" lon="14.41494565729673"/>
+				<Vertex lat="51.68642092322841" lon="14.41459723100238"/>
+				<Vertex lat="51.68640267720966" lon="14.41461819621788"/>
+				<Vertex lat="51.68636387111784" lon="14.41461051359965"/>
+			</Apron>
+			<Apron displayName="center apron" parentGroupID="14" groupIndex="6" surface="{CC7B4532-8C57-407F-9C16-492AF7255CCD}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.645772" falloff="1.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="51.68669235800281" lon="14.41483492432994"/>
+				<Vertex lat="51.68669340006469" lon="14.41474317605801"/>
+				<Vertex lat="51.68654238332139" lon="14.41438838505961"/>
+				<Vertex lat="51.68655733434880" lon="14.41437105792094"/>
+				<Vertex lat="51.68679415116058" lon="14.41490712755302"/>
+				<Vertex lat="51.68677663766389" lon="14.41492968553169"/>
+				<Vertex lat="51.68675793324972" lon="14.41489248679677"/>
+				<Vertex lat="51.68673754141449" lon="14.41486668301941"/>
+				<Vertex lat="51.68670457514163" lon="14.41489834781391"/>
+				<Vertex lat="51.68669919686025" lon="14.41493030941435"/>
+				<Vertex lat="51.68673279653480" lon="14.41501466868139"/>
+				<Vertex lat="51.68674499430074" lon="14.41501938319279"/>
+				<Vertex lat="51.68676817471888" lon="14.41507563702106"/>
+				<Vertex lat="51.68672990718763" lon="14.41512614093787"/>
+				<Vertex lat="51.68670535014635" lon="14.41506748865850"/>
+				<Vertex lat="51.68670705797664" lon="14.41504482608461"/>
+				<Vertex lat="51.68667272517850" lon="14.41497364503348"/>
+				<Vertex lat="51.68662604439641" lon="14.41502987162802"/>
+				<Vertex lat="51.68662044635821" lon="14.41504465896608"/>
+				<Vertex lat="51.68660634047983" lon="14.41515034430650"/>
+				<Vertex lat="51.68660647929944" lon="14.41519053994715"/>
+				<Vertex lat="51.68661681894214" lon="14.41522650691484"/>
+				<Vertex lat="51.68658022945800" lon="14.41526307083722"/>
+				<Vertex lat="51.68637678797804" lon="14.41547800718428"/>
+				<Vertex lat="51.68636502840692" lon="14.41552969454378"/>
+				<Vertex lat="51.68638869650719" lon="14.41558156251488"/>
+				<Vertex lat="51.68636387527801" lon="14.41560998134896"/>
+				<Vertex lat="51.68627729260852" lon="14.41541980971060"/>
+				<Vertex lat="51.68630231991575" lon="14.41539243885910"/>
+				<Vertex lat="51.68632025363684" lon="14.41543056490214"/>
+				<Vertex lat="51.68635907854058" lon="14.41543263782360"/>
+				<Vertex lat="51.68655883470770" lon="14.41520517372227"/>
+				<Vertex lat="51.68655754675697" lon="14.41517752887509"/>
+				<Vertex lat="51.68658605011836" lon="14.41501409163002"/>
+				<Vertex lat="51.68658717510128" lon="14.41499257711373"/>
+				<Vertex lat="51.68658173521352" lon="14.41494582181372"/>
+				<Vertex lat="51.68642101569076" lon="14.41459742347550"/>
+				<Vertex lat="51.68640255088748" lon="14.41461828402970"/>
+				<Vertex lat="51.68636335198340" lon="14.41461050187755"/>
+				<Vertex lat="51.68634843471452" lon="14.41458096426315"/>
+				<Vertex lat="51.68643989579526" lon="14.41447449315396"/>
+				<Vertex lat="51.68645363367614" lon="14.41450506693953"/>
+				<Vertex lat="51.68644857894060" lon="14.41455739615641"/>
+				<Vertex lat="51.68643334215032" lon="14.41458136203802"/>
+				<Vertex lat="51.68659215220128" lon="14.41492897488174"/>
+				<Vertex lat="51.68661504453061" lon="14.41492900204676"/>
+				<Vertex lat="51.68665656802243" lon="14.41487648725894"/>
+			</Apron>
+			<Apron displayName="Front of AeroHeli hangar" parentGroupID="14" groupIndex="8" surface="{CC7B4532-8C57-407F-9C16-492AF7255CCD}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="0.610865" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="51.68664802000389" lon="14.41429312540112"/>
+				<Vertex lat="51.68655696824709" lon="14.41437010302270"/>
+				<Vertex lat="51.68670656100605" lon="14.41471158199085"/>
+				<Vertex lat="51.68679460568863" lon="14.41490717435983"/>
+				<Vertex lat="51.68677650991754" lon="14.41493061737890"/>
+				<Vertex lat="51.68683580372706" lon="14.41505700312907"/>
+				<Vertex lat="51.68694491362417" lon="14.41493765186964"/>
+			</Apron>
+			<Apron displayName="apron fuel" parentGroupID="14" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="35.000000" offsetV="69" heading="0.558505" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="51.68661677710295" lon="14.41522667897133"/>
+				<Vertex lat="51.68654658641395" lon="14.41529809987565"/>
+				<Vertex lat="51.68660011182820" lon="14.41531536412187"/>
+				<Vertex lat="51.68676032026193" lon="14.41573488739017"/>
+				<Vertex lat="51.68693849418310" lon="14.41618381210955"/>
+				<Vertex lat="51.68697170986081" lon="14.41615545624673"/>
+				<Vertex lat="51.68690197618311" lon="14.41597399885468"/>
+				<Vertex lat="51.68692111611794" lon="14.41588006098032"/>
+				<Vertex lat="51.68686261345504" lon="14.41587693268264"/>
+				<Vertex lat="51.68679491361572" lon="14.41570228446918"/>
+			</Apron>
+			<Apron displayName="Grass" parentGroupID="14" surface="{B8D6CC1D-DEA9-4A20-8BB6-123149776A7C}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="2.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="80" green="103" blue="70" alpha="255" override="TRUE"/>
+				<Vertex lat="51.68679472131988" lon="14.41570153920897"/>
+				<Vertex lat="51.68701180435028" lon="14.41545316018677"/>
+				<Vertex lat="51.68696826628889" lon="14.41539488804789"/>
+				<Vertex lat="51.68727460012806" lon="14.41468258270502"/>
+				<Vertex lat="51.68712522166709" lon="14.41438626714743"/>
+				<Vertex lat="51.68717271863292" lon="14.41427764979669"/>
+				<Vertex lat="51.68696853172877" lon="14.41409874585045"/>
+				<Vertex lat="51.68687361283183" lon="14.41406109200040"/>
+				<Vertex lat="51.68714440526951" lon="14.41468815104998"/>
+				<Vertex lat="51.68683599919803" lon="14.41505773280747"/>
+				<Vertex lat="51.68675771200580" lon="14.41489364710787"/>
+				<Vertex lat="51.68673751073975" lon="14.41486703164992"/>
+				<Vertex lat="51.68670475587165" lon="14.41489871223398"/>
+				<Vertex lat="51.68669968346059" lon="14.41493016788596"/>
+				<Vertex lat="51.68673285498242" lon="14.41501449208473"/>
+				<Vertex lat="51.68674472070685" lon="14.41501818165310"/>
+				<Vertex lat="51.68676831612866" lon="14.41507562884409"/>
+				<Vertex lat="51.68673003054542" lon="14.41512639720607"/>
+				<Vertex lat="51.68670507437803" lon="14.41506767239928"/>
+				<Vertex lat="51.68670697244710" lon="14.41504487154520"/>
+				<Vertex lat="51.68667287324309" lon="14.41497411215724"/>
+				<Vertex lat="51.68662616409760" lon="14.41503000046822"/>
+				<Vertex lat="51.68662052764278" lon="14.41504455845040"/>
+				<Vertex lat="51.68660663328079" lon="14.41515023408764"/>
+				<Vertex lat="51.68660668053244" lon="14.41519067592082"/>
+				<Vertex lat="51.68661681373884" lon="14.41522648925169"/>
+			</Apron>
+			<Apron displayName="Fueling area" parentGroupID="14" groupIndex="7" surface="{BAD86A97-E757-4257-8327-8DACB05432E2}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="40.000000" offsetU="33" heading="0.610865" falloff="0.000000" opacity="160" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="51.68692819144156" lon="14.41585180536574"/>
+				<Vertex lat="51.68711879966445" lon="14.41564101129875"/>
+				<Vertex lat="51.68701222140550" lon="14.41545298112062"/>
+				<Vertex lat="51.68679502905744" lon="14.41570208252182"/>
+				<Vertex lat="51.68685153348288" lon="14.41584915907888"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<Com frequency="122.730000" type="TOWER" name="NEUHAUSEN INFO"/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllVectorPlacement="TRUE" deleteAllBoundaryFences="FALSE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	</Airport>
+</FSData>
+

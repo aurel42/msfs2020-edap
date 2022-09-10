@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{9da07d17-fe0f-4141-ae24-db7a6d79c081}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-fence-single-pole_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

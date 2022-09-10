@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Cottbus-Neuhausen" groupID="4294967295" groupGenerated="FALSE" name="Verkehrslandeplatz Cottbus/Neuhausen" ident="EDAP" lat="51.68483331799507" lon="14.42316681146622" alt="85.03900146484375" magvar="-4.88" trafficScalar="1.000000" airportTestRadius="1000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>

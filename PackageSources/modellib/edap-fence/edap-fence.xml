@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{a27385ff-6617-40c4-8331-fee2a78b0794}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-fence_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

@@ -1,0 +1,42 @@
+<ReleaseNotes>
+	<ReleaseNote Version="0.1.11" Date="2022-8-28">added first hangar
+added inner gate
+added placeholder objects for buildings
+</ReleaseNote>
+	<ReleaseNote Version="0.1.4" Date="2022-8-12">rebuilt solar panels and inverter buildings
+added placeholders for runway and taxiway markings
+added placeholder buildings
+added vegetation exclusion along railway
+added taxiways and parking spots
+added textured aprons
+added static aircraft
+added patches of vegetation</ReleaseNote>
+	<ReleaseNote Version="0.1.6" Date="2022-8-14">fixed rwy material
+</ReleaseNote>
+	<ReleaseNote Version="0.1.8" Date="2022-8-17">added grass patches with colorization to cover artefacts
+refined apron
+replaced gas station containers
+added LOD to R22
+removed useless parts of road network
+replaced gas station tank
+</ReleaseNote>
+	<ReleaseNote Version="0.1.10" Date="2022-8-19">removed spurious OSM building (skyscraper)
+removed spurious street lamps
+changed container model
+added custom service building
+</ReleaseNote>
+	<ReleaseNote Version="0.1.5" Date="2022-8-12">rearranged parking spots and taxiway network
+added grass aprons to cover ground artefacts
+added pine tree next to hangar
+added carport
+added placeholder antenna
+</ReleaseNote>
+	<ReleaseNote Version="0.1.7" Date="0-1-1">test: road network
+added R22
+added parking spaces
+added vehicle parking</ReleaseNote>
+	<ReleaseNote Version="0.1.9" Date="0-1-1">replaced gas station container models
+added custom fence model
+</ReleaseNote>
+</ReleaseNotes>
+

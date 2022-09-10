@@ -1,0 +1,18 @@
+# Blender backups
+*.blend[0-9]*
+*-blender.zip
+
+# files that may not be distributed in their original form
+3rd party/
+PackageSources/modellib/texture
+PackageSources/modellib/edap-D-FOJN
+PackageSources/modellib/*/assets/materials
+
+# temporary files
+/Output
+/Temp
+*~
+.#*
+
+# raw input data (DEM, aerials)
+/Sources

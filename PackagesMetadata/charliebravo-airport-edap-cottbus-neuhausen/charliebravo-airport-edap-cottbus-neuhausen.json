@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "EDAP",
+      "latitude": 51.68483331799507,
+      "longitude": 14.42316681146622
+    },
+    {
+      "type": "airport",
+      "airportCode": "EDAP",
+      "latitude": 51.68467185652466,
+      "longitude": 14.4231315113155
+    }
+  ]
+}
