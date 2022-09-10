@@ -12,3 +12,17 @@ A big THANK YOU to all the people and organizations who provided invaluable help
 - Deutsche Flugsicherung (DFS)
 - [Landesvermessung und Geobasisinformation Brandenburg](https://geobasis-bb.de/)
 
+## State of the project
+- not completed
+
+## Recommended libraries
+Without them, some placeholder objects will be missing.
+- [Mikea.at - Airport Markings](https://flightsim.to/file/4208/mikea-at-airport-markings)
+- [Mikea.at - AssetPack](https://flightsim.to/file/1923/mikea-at-assetpack)
+- [EDHK Lights & Objects Developers Pack](https://flightsim.to/file/2549/edhk-lights-pack)
+- [Windy Things](https://flightsim.to/file/14024/windy-things)
+
+## Optional libraries
+They improve the surroundings.
+- [mamudesign Powerlines and Solar Farms](https://flightsim.to/file/26186/powerlines-and-solar-farms)
+- [We Love VFR - Region 1](https://flightsim.to/file/2605/we-love-vfr-region-1)
