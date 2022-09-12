@@ -7,6 +7,7 @@ A big THANK YOU to all the people and organizations who provided invaluable help
 - Federico "mamu82" Pinotti & the patrons of the [mamudesign Discord server](https://discord.gg/v8SCwtnskh)
 - PuffinFlight
 - Dániel "XYZConcorde" Schweitzer
+- EaglePilot6
 - Arman Y.
 - [Flugplatzgesellschaft Cottbus/Neuhausen mbH](https://flughafen-cottbus.de/)
 - Deutsche Flugsicherung (DFS)
