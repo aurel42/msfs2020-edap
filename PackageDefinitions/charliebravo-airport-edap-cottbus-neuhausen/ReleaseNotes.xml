@@ -25,6 +25,8 @@ removed spurious street lamps
 changed container model
 added custom service building
 </ReleaseNote>
+	<ReleaseNote Version="0.1.12" Date="2022-9-13">replaced helicopter dollies
+</ReleaseNote>
 	<ReleaseNote Version="0.1.5" Date="2022-8-12">rearranged parking spots and taxiway network
 added grass aprons to cover ground artefacts
 added pine tree next to hangar

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage ReleaseNotes="PackageDefinitions\charliebravo-airport-edap-cottbus-neuhausen\ReleaseNotes.xml" Version="0.1.11">
+<AssetPackage ReleaseNotes="PackageDefinitions\charliebravo-airport-edap-cottbus-neuhausen\ReleaseNotes.xml" Version="0.1.12">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Verkehrslandeplatz Cottbus/Neuhausen</Title>
