@@ -59,7 +59,17 @@
                 82,
                 83,
                 87,
-                90
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
             ]
         }
     ],
@@ -345,7 +355,7 @@
                         0.687845766544342,
                         0.838057816028595
                     ],
-                    "intensity" : 25,
+                    "intensity" : 50,
                     "cone_angle" : 360,
                     "has_symmetry" : false,
                     "flash_frequency" : 0,
@@ -363,9 +373,9 @@
                 0.5010800957679749
             ],
             "translation" : [
-                6.568979263305664,
-                5.740771770477295,
-                -16.822057723999023
+                6.568975925445557,
+                5.799206256866455,
+                -16.788515090942383
             ]
         },
         {
@@ -376,7 +386,7 @@
                         1,
                         1
                     ],
-                    "intensity" : 25,
+                    "intensity" : 50,
                     "cone_angle" : 360,
                     "has_symmetry" : false,
                     "flash_frequency" : 0,
@@ -394,9 +404,9 @@
                 0.5000001192092896
             ],
             "translation" : [
-                -6.568979740142822,
-                5.7407708168029785,
-                -16.822053909301758
+                -6.568976879119873,
+                5.788661956787109,
+                -16.794404983520508
             ]
         },
         {
@@ -559,6 +569,316 @@
             ],
             "mesh" : 88,
             "name" : "power cable pipe"
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area",
+            "rotation" : [
+                0.5003461241722107,
+                -0.4996485710144043,
+                -0.4996486008167267,
+                0.5003563165664673
+            ],
+            "translation" : [
+                -7.906011581420898,
+                4.491092681884766,
+                12.7289400100708
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.001",
+            "rotation" : [
+                0.5003461241722107,
+                -0.4996485710144043,
+                -0.4996486008167267,
+                0.5003563165664673
+            ],
+            "translation" : [
+                -7.906011581420898,
+                4.491092681884766,
+                6.340781211853027
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.002",
+            "rotation" : [
+                0.5003461241722107,
+                -0.4996485710144043,
+                -0.4996486008167267,
+                0.5003563165664673
+            ],
+            "translation" : [
+                -7.906011581420898,
+                4.491092681884766,
+                -0.0042934417724609375
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.003",
+            "rotation" : [
+                0.5003461241722107,
+                -0.4996485710144043,
+                -0.4996486008167267,
+                0.5003563165664673
+            ],
+            "translation" : [
+                -7.906011581420898,
+                4.491092681884766,
+                -6.398985862731934
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.004",
+            "rotation" : [
+                0.5003461241722107,
+                -0.4996485710144043,
+                -0.4996486008167267,
+                0.5003563165664673
+            ],
+            "translation" : [
+                -7.906011581420898,
+                4.491092681884766,
+                -12.79763412475586
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.005",
+            "rotation" : [
+                -0.4996478855609894,
+                0.5003563165664673,
+                -0.5003461241722107,
+                0.4996492862701416
+            ],
+            "translation" : [
+                7.80678653717041,
+                4.491092681884766,
+                -12.797633171081543
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.006",
+            "rotation" : [
+                -0.4996478855609894,
+                0.5003563165664673,
+                -0.5003461241722107,
+                0.4996492862701416
+            ],
+            "translation" : [
+                7.806787014007568,
+                4.491092681884766,
+                -6.409475326538086
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.007",
+            "rotation" : [
+                -0.4996478855609894,
+                0.5003563165664673,
+                -0.5003461241722107,
+                0.4996492862701416
+            ],
+            "translation" : [
+                7.806787490844727,
+                4.491092681884766,
+                -0.06440067291259766
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.008",
+            "rotation" : [
+                -0.4996478855609894,
+                0.5003563165664673,
+                -0.5003461241722107,
+                0.4996492862701416
+            ],
+            "translation" : [
+                7.806787967681885,
+                4.491092681884766,
+                6.330291748046875
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 2,
+                    "cone_angle" : 360,
+                    "has_symmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Area.009",
+            "rotation" : [
+                -0.4996478855609894,
+                0.5003563165664673,
+                -0.5003461241722107,
+                0.4996492862701416
+            ],
+            "translation" : [
+                7.806788444519043,
+                4.491092681884766,
+                12.728939056396484
+            ]
         }
     ],
     "materials" : [
@@ -716,11 +1036,8 @@
                 }
             },
             "name" : "EDAP logo",
-            "normalTexture" : {
-                "index" : 7
-            },
             "occlusionTexture" : {
-                "index" : 8
+                "index" : 7
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -730,21 +1047,21 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 9
+                    "index" : 8
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 8
+                    "index" : 7
                 }
             }
         },
         {
             "name" : "EDAP plaster painted white",
             "normalTexture" : {
-                "index" : 10
+                "index" : 9
             },
             "occlusionTexture" : {
-                "index" : 11
+                "index" : 10
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -754,11 +1071,11 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 12
+                    "index" : 11
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 11
+                    "index" : 10
                 }
             }
         },
@@ -782,35 +1099,35 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 13
+                "index" : 12
             },
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
             "name" : "EDAP hangar b windows",
             "normalTexture" : {
-                "index" : 14
+                "index" : 13
             },
             "occlusionTexture" : {
-                "index" : 15
+                "index" : 14
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 16
+                    "index" : 15
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 15
+                    "index" : 14
                 }
             }
         },
         {
             "name" : "EDAP bricks",
             "normalTexture" : {
-                "index" : 17
+                "index" : 16
             },
             "occlusionTexture" : {
-                "index" : 18
+                "index" : 17
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -820,18 +1137,18 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 19
+                    "index" : 18
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 18
+                    "index" : 17
                 }
             }
         },
         {
             "name" : "EDAP roofing bitumen",
             "normalTexture" : {
-                "index" : 20
+                "index" : 19
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -841,11 +1158,11 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 21
+                    "index" : 20
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 22
+                    "index" : 21
                 }
             }
         },
@@ -877,7 +1194,7 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 23
+                    "index" : 22
                 },
                 "metallicFactor" : 0
             }
@@ -907,7 +1224,7 @@
                     0.9137930870056152
                 ],
                 "baseColorTexture" : {
-                    "index" : 24
+                    "index" : 23
                 },
                 "metallicFactor" : 0
             }
@@ -944,7 +1261,7 @@
             "name" : "EDAP decal rust",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 25
+                    "index" : 24
                 },
                 "metallicFactor" : 0
             }
@@ -952,7 +1269,7 @@
         {
             "name" : "EDAP pvc gray",
             "normalTexture" : {
-                "index" : 26
+                "index" : 25
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -962,11 +1279,11 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 27
+                    "index" : 26
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 28
+                    "index" : 27
                 },
                 "roughnessFactor" : 0.809999942779541
             }
@@ -985,16 +1302,20 @@
             }
         },
         {
-            "alphaMode" : "BLEND",
+            "emissiveFactor" : [
+                0.5354658961296082,
+                0.6558538675308228,
+                0.6634608507156372
+            ],
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
             "name" : "EDAP hangar lights",
             "normalTexture" : {
-                "index" : 29
+                "index" : 28
             },
             "occlusionTexture" : {
-                "index" : 30
+                "index" : 29
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -1003,13 +1324,11 @@
                     0.5209954380989075,
                     1
                 ],
-                "baseColorTexture" : {
-                    "index" : 31
-                },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 30
-                }
+                    "index" : 29
+                },
+                "roughnessFactor" : 0.10000002384185791
             }
         },
         {
@@ -1045,7 +1364,7 @@
             "name" : "EDAP sign no matches.001",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 32
+                    "index" : 30
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.20999999344348907
@@ -2966,10 +3285,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 7
-        },
-        {
-            "sampler" : 0,
             "source" : 10
         },
         {
@@ -3051,10 +3366,6 @@
         {
             "sampler" : 0,
             "source" : 27
-        },
-        {
-            "sampler" : 0,
-            "source" : 28
         }
     ],
     "images" : [
@@ -3095,11 +3406,6 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "plaster_Normal",
-            "uri" : "plaster_Normal.png"
-        },
-        {
-            "mimeType" : "image/png",
             "name" : "gray-bricks1_composite",
             "uri" : "gray-bricks1_composite.png"
         },
@@ -3110,13 +3416,18 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "plaster_composite",
-            "uri" : "plaster_composite.png"
+            "name" : "Plaster_Painted_1K_normal_flipped",
+            "uri" : "Plaster_Painted_1K_normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "plaster_Base_Color",
-            "uri" : "plaster_Base_Color.png"
+            "name" : "Plaster_Painted_1K_composite",
+            "uri" : "Plaster_Painted_1K_composite.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Plaster_Painted_1K_albedo",
+            "uri" : "Plaster_Painted_1K_albedo.png"
         },
         {
             "mimeType" : "image/png",
@@ -3192,11 +3503,6 @@
             "mimeType" : "image/png",
             "name" : "Glass_Blocks_1K_composite",
             "uri" : "Glass_Blocks_1K_composite.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Glass_Blocks_1K_albedo",
-            "uri" : "Glass_Blocks_1K_albedo.png"
         },
         {
             "mimeType" : "image/png",

@@ -4,6 +4,7 @@ My first scenery project for Microsoft Flight Simulator is an attempt to create 
 A big THANK YOU to all the people and organizations who provided invaluable help in one form or another, especially:
 - Andreas Dietrich
 - Jens Gabriel
+- Alfred Orphal
 - Federico "mamu82" Pinotti & the patrons of the [mamudesign Discord server](https://discord.gg/v8SCwtnskh)
 - PuffinFlight
 - Dániel "XYZConcorde" Schweitzer
