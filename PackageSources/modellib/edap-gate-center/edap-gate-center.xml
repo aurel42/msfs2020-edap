@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{ebbd851d-e9a7-4d6c-9306-9ea9fe75c1bc}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edap-gate-center_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>
