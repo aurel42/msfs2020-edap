@@ -407,13 +407,13 @@
             "name" : "EDAP glass",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0,
-                    0,
-                    0,
-                    0.04022854566574097
+                    1,
+                    1,
+                    1,
+                    0.009999999776482582
                 ],
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.03999999910593033
+                "roughnessFactor" : 0.10000000149011612
             }
         },
         {
