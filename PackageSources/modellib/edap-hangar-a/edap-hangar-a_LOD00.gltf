@@ -11,11 +11,11 @@
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
         "ASOBO_material_day_night_switch",
-        "ASOBO_material_detail_map",
         "ASOBO_material_blend_gbuffer",
         "ASOBO_material_shadow_options",
         "ASOBO_material_draw_order",
-        "ASOBO_material_glass"
+        "ASOBO_material_glass",
+        "ASOBO_macro_light"
     ],
     "scene" : 0,
     "scenes" : [
@@ -29,7 +29,13 @@
                 18,
                 22,
                 30,
-                38
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
             ]
         }
     ],
@@ -93,12 +99,7 @@
         },
         {
             "mesh" : 11,
-            "name" : "sign no matches",
-            "translation" : [
-                0,
-                0,
-                -0.019195556640625
-            ]
+            "name" : "sign no matches"
         },
         {
             "children" : [
@@ -143,17 +144,7 @@
         },
         {
             "mesh" : 19,
-            "name" : "girders",
-            "scale" : [
-                0.09702403098344803,
-                0.09702403098344803,
-                0.09702403098344803
-            ],
-            "translation" : [
-                13.037497520446777,
-                6.475255012512207,
-                0
-            ]
+            "name" : "girders"
         },
         {
             "mesh" : 20,
@@ -253,23 +244,206 @@
             ],
             "mesh" : 38,
             "name" : "gutter R"
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area",
+            "rotation" : [
+                0.5,
+                0.4999999701976776,
+                0.5,
+                0.5000000596046448
+            ],
+            "translation" : [
+                12.980108261108398,
+                4.100583076477051,
+                -2.112281084060669
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area.001",
+            "rotation" : [
+                0.5,
+                0.4999999701976776,
+                0.5,
+                0.5000000596046448
+            ],
+            "translation" : [
+                12.980108261108398,
+                4.100583076477051,
+                2.1221516132354736
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area.002",
+            "rotation" : [
+                -2.9802322387695312e-08,
+                -5.960464477539063e-08,
+                0.7071067690849304,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -4.068788528442383,
+                4.100583076477051,
+                8.06159782409668
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area.003",
+            "rotation" : [
+                -2.9802322387695312e-08,
+                -5.960464477539063e-08,
+                0.7071067690849304,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -7.9413161277771,
+                4.100583076477051,
+                8.06159782409668
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area.004",
+            "rotation" : [
+                -0.5000001192092896,
+                -0.5,
+                0.4999999701976776,
+                0.49999991059303284
+            ],
+            "translation" : [
+                -12.992919921875,
+                4.100583076477051,
+                2.1186447143554688
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.28169506788253784,
+                        0.39274388551712036,
+                        0.39722466468811035
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Area.005",
+            "rotation" : [
+                -0.5000001192092896,
+                -0.5,
+                0.4999999701976776,
+                0.49999991059303284
+            ],
+            "translation" : [
+                -12.992919921875,
+                4.100583076477051,
+                -2.091742515563965
+            ]
         }
     ],
     "materials" : [
         {
             "emissiveFactor" : [
-                0.5205453634262085,
-                0.5205453634262085,
-                0.5205453634262085
+                0.21533313393592834,
+                0.2655998170375824,
+                0.2811909317970276
             ],
+            "emissiveTexture" : {
+                "index" : 0
+            },
             "extensions" : {
-                "ASOBO_material_day_night_switch" : {},
-                "ASOBO_material_detail_map" : {
-                    "detailColorTexture" : {
-                        "index" : 0
-                    },
-                    "blendThreshold" : 0.10000000149011612
-                }
+                "ASOBO_material_day_night_switch" : {}
             },
             "name" : "EDAP glass blocks",
             "normalTexture" : {
@@ -1581,23 +1755,23 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "Various_GlassBlocks_1K_many_alpha",
-            "uri" : "Various_GlassBlocks_1K_many_alpha.png"
+            "name" : "edap_hangar_a_glass_blocks-emissive",
+            "uri" : "edap_hangar_a_glass_blocks-emissive.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Various_GlassBlocks_1K_many_normal",
-            "uri" : "Various_GlassBlocks_1K_many_normal.png"
+            "name" : "edap_hangar_a_glass_blocks_normal_flipped",
+            "uri" : "edap_hangar_a_glass_blocks_normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Various_GlassBlocks_1K_many_comp",
-            "uri" : "Various_GlassBlocks_1K_many_comp.png"
+            "name" : "edap_hangar_a_glass_blocks_composite",
+            "uri" : "edap_hangar_a_glass_blocks_composite.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Various_GlassBlocks_1K_many_albedo",
-            "uri" : "Various_GlassBlocks_1K_many_albedo.png"
+            "name" : "edap_hangar_a_glass_blocks-albedo",
+            "uri" : "edap_hangar_a_glass_blocks-albedo.png"
         },
         {
             "mimeType" : "image/png",
@@ -1656,8 +1830,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Wood_PlanksOld2_2x2_1K_normal",
-            "uri" : "Wood_PlanksOld2_2x2_1K_normal.png"
+            "name" : "Wood_PlanksOld2_2x2_1K_normal_flipped",
+            "uri" : "Wood_PlanksOld2_2x2_1K_normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
@@ -2448,12 +2622,12 @@
             "max" : [
                 -6.157479286193848,
                 1.9248383045196533,
-                8.712409019470215
+                8.69321346282959
             ],
             "min" : [
                 -6.483761310577393,
                 1.5979747772216797,
-                8.685952186584473
+                8.666756629943848
             ],
             "type" : "VEC3"
         },
@@ -2994,14 +3168,14 @@
             "componentType" : 5126,
             "count" : 2304,
             "max" : [
-                4.994448661804199,
-                1.0493316650390625,
-                87.65231323242188
+                13.522079467773438,
+                6.577065467834473,
+                8.50438117980957
             ],
             "min" : [
-                -272.68310546875,
-                -17.960281372070312,
-                -87.69979858398438
+                -13.419316291809082,
+                4.732676029205322,
+                -8.508988380432129
             ],
             "type" : "VEC3"
         },

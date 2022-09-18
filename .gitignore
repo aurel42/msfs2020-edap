@@ -4,6 +4,7 @@
 
 # files that may not be distributed in their original form
 3rd party/
+_wip/
 PackageSources/modellib/texture
 PackageSources/modellib/edap-D-FOJN
 PackageSources/modellib/edap-r44

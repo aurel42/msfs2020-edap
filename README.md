@@ -17,6 +17,13 @@ A big THANK YOU to all the people and organizations who provided invaluable help
 ## State of the project
 - not completed
 
+## Todos for release
+- complete modelling, texturing
+- windsock
+- beacon
+- LOD
+- collision boxes
+
 ## Recommended libraries
 Without them, some placeholder objects will be missing.
 - [Mikea.at - Airport Markings](https://flightsim.to/file/4208/mikea-at-airport-markings)
@@ -26,5 +33,5 @@ Without them, some placeholder objects will be missing.
 
 ## Optional libraries
 They improve the surroundings.
-- [mamudesign Powerlines and Solar Farms](https://flightsim.to/file/26186/powerlines-and-solar-farms)
+- [Mamudesign Powerlines and Solar Farms](https://flightsim.to/file/26186/powerlines-and-solar-farms)
 - [We Love VFR - Region 1](https://flightsim.to/file/2605/we-love-vfr-region-1)

@@ -11,6 +11,10 @@ added taxiways and parking spots
 added textured aprons
 added static aircraft
 added patches of vegetation</ReleaseNote>
+	<ReleaseNote Version="0.1.13" Date="2022-9-16">replaced windows of hangar a
+updated main building
+added placeholder for beacon
+</ReleaseNote>
 	<ReleaseNote Version="0.1.6" Date="2022-8-14">fixed rwy material
 </ReleaseNote>
 	<ReleaseNote Version="0.1.8" Date="2022-8-17">added grass patches with colorization to cover artefacts
