@@ -15,6 +15,7 @@ PackageSources/modellib/*/assets/materials
 /Temp
 *~
 .#*
+_generated*
 
 # raw input data (DEM, aerials)
 /Sources
