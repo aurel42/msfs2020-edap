@@ -4,14 +4,6 @@
 	<SceneryObject parentGroupID="3" groupIndex="5" lat="51.60846259564358" lon="14.42902352691319" alt="0.00000000000000" pitch="-0.145005" bank="-0.001373" heading="-175.655007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{E17792A8-3D8B-432F-BECD-3EAEB375ED9B}" scale="0.620000"/>
 	</SceneryObject>
-	<Polygon displayName="remove spurious skyscraper" parentGroupID="4" altitude="79.24912261962891">
-		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{48A3985C-B5BB-4431-8268-B2669B7A2829}"/>
-		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
-		<Vertex lat="51.71987997867982" lon="14.34154061626540"/>
-		<Vertex lat="51.71992897932926" lon="14.34174143631836"/>
-		<Vertex lat="51.72006674626250" lon="14.34167996654818"/>
-		<Vertex lat="51.72002315605280" lon="14.34144451812730"/>
-	</Polygon>
 	<!--SceneryObject name: 250W_white_flash_obstacle_light_with_support_EDHK-->
 	<SceneryObject displayName="placeholder beacon" parentGroupID="7" lat="51.68684529202645" lon="14.41419860815026" alt="15.63436442397941" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{417436B7-BC47-4CCF-0443-7F5AD9E5BD66}" scale="0.300000"/>
@@ -458,7 +450,7 @@
 		<LibraryObject name="{42873013-11C2-4E16-9F86-7C0BEBDFABD9}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edap-hangar-for-->
-	<SceneryObject parentGroupID="2" groupIndex="5" lat="51.68578301223537" lon="14.41504113604125" alt="0.00000000000000" pitch="0.001093" bank="-0.001120" heading="-128.127000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="2" groupIndex="5" lat="51.68578301209352" lon="14.41504113604240" alt="0.07179613602784" pitch="0.001544" bank="-0.001544" heading="50.253298" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{53C10684-A156-4DE5-B874-86D229608CC2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edap-helicopter-dolly-->
@@ -564,6 +556,18 @@
 		<Vertex lat="51.68916394910850" lon="14.41837752268947"/>
 		<Vertex lat="51.68902765454388" lon="14.41683651916129"/>
 		<Vertex lat="51.68791450113391" lon="14.41483959070779"/>
+	</Polygon>
+	<Polygon displayName="front of FORwerk hangar" parentGroupID="4" altitude="84.31333253100942">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8CC12EAD-D002-41F2-83E3-4A14F9E7D570}"/>
+		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{CC7B4532-8C57-407F-9C16-492AF7255CCD}"/>
+		<Attribute name="MaterialRotation" guid="{A27E9C0F-D3F5-4FB2-B020-82179BDB622D}" type="FLOAT32" value="0.907571"/>
+		<Attribute name="MaterialOpacity" guid="{591218A9-7B17-40CC-B38C-57A201A20C1D}" type="UINT8" value="207"/>
+		<Vertex lat="51.68579154308719" lon="14.41518136537854"/>
+		<Vertex lat="51.68580707587072" lon="14.41520428449772"/>
+		<Vertex lat="51.68583334607891" lon="14.41521069541517"/>
+		<Vertex lat="51.68587807590011" lon="14.41515109260893"/>
+		<Vertex lat="51.68587646471793" lon="14.41511172649784"/>
+		<Vertex lat="51.68586598263499" lon="14.41507959199799"/>
 	</Polygon>
 	<Polygon displayName="around service building" parentGroupID="2" groupIndex="7" altitude="83.65208435058594">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{ED37CFF8-0E53-4BE2-96B2-DAF50A1CAB04}"/>

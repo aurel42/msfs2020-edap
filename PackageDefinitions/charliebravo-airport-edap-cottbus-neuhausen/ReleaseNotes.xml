@@ -17,6 +17,8 @@ added placeholder for beacon
 </ReleaseNote>
 	<ReleaseNote Version="0.1.6" Date="2022-8-14">fixed rwy material
 </ReleaseNote>
+	<ReleaseNote Version="0.1.15" Date="2022-3-9">added Forwerk hangar
+</ReleaseNote>
 	<ReleaseNote Version="0.1.8" Date="2022-8-17">added grass patches with colorization to cover artefacts
 refined apron
 replaced gas station containers
