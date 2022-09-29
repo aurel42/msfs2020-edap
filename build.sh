@@ -24,6 +24,7 @@ powershell.exe msfs elev -border '.\Sources\edap-premises.shp' \
 powershell.exe msfs elev -border '.\Sources\edap-rwy11L.shp' \
 	       -imagery '.\Sources\dem\dgm-edap.tif' \
 	       -res 1 -falloff 50 -priority 3 \
+	       -airport 'PackageSources\scene\EDAP.xml' \
 	       'PackageSources\mesh\mesh-edap-rwy11L.xml'
 powershell.exe msfs elev -border '.\Sources\edap-fuel.shp' \
 	       -imagery '.\Sources\dem\dgm-edap.tif' \
