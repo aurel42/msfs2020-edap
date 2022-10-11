@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInfo guid="{fd109826-f49c-4e69-8186-d8706e6ed60c}" version="1.1">
 	<LODS>
-		<LOD minSize="32" ModelFile="edap-tank_LOD00.gltf"/>
+		<LOD minSize="20" ModelFile="edap-tank_LOD00.gltf"/>
+		<LOD minSize="10" ModelFile="edap-tank_LOD01.gltf"/>
+		<LOD minSize="5" ModelFile="edap-tank_LOD02.gltf"/>
+		<LOD minSize="0" ModelFile="edap-tank_LOD03.gltf"/>
 	</LODS>
 </ModelInfo>

@@ -1,0 +1,424 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.8.19 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.008"
+        },
+        {
+            "mesh" : 1,
+            "name" : "post.003"
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.009",
+            "rotation" : [
+                0,
+                0,
+                0,
+                -1
+            ],
+            "translation" : [
+                0.00047050975263118744,
+                -0.46797460317611694,
+                -0.005325388163328171
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.010",
+            "rotation" : [
+                0,
+                0.3754581809043884,
+                0,
+                0.9268393516540527
+            ],
+            "translation" : [
+                1.4569473266601562,
+                0,
+                -1.3895665407180786
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.011",
+            "rotation" : [
+                0,
+                0.3754581809043884,
+                0,
+                0.9268393516540527
+            ],
+            "translation" : [
+                3.4767377376556396,
+                0,
+                -1.3895665407180786
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.012",
+            "rotation" : [
+                0,
+                0.7087856531143188,
+                0,
+                0.705423891544342
+            ],
+            "translation" : [
+                3.446664333343506,
+                0,
+                -3.4698173999786377
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.013",
+            "rotation" : [
+                0,
+                -0.37921833992004395,
+                0,
+                -0.9253072142601013
+            ],
+            "translation" : [
+                1.4528647661209106,
+                -0.4679746627807617,
+                -1.4094409942626953
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.014",
+            "rotation" : [
+                0,
+                -0.37921833992004395,
+                0,
+                -0.9253072142601013
+            ],
+            "translation" : [
+                3.477992296218872,
+                -0.46797460317611694,
+                -1.4214437007904053
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.015",
+            "rotation" : [
+                0,
+                -0.7096836566925049,
+                0,
+                -0.704520583152771
+            ],
+            "translation" : [
+                3.4342336654663086,
+                -0.46797460317611694,
+                -3.4824953079223633
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "post.004",
+            "translation" : [
+                1.4493621587753296,
+                0,
+                1.401173710823059
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "post.005",
+            "translation" : [
+                3.467930316925049,
+                0,
+                1.4198641777038574
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "post.006",
+            "translation" : [
+                5.491171360015869,
+                0,
+                1.4105188846588135
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "post.009",
+            "translation" : [
+                6.911190509796143,
+                0,
+                -0.0539531446993351
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "EDAP COL wood dark",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.01606643944978714,
+                    0.00810325425118208,
+                    0.002232503378763795,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "name" : "EDAP paint dark blue",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.0032148670870810747,
+                    0.026819149032235146,
+                    0.05582427233457565,
+                    1
+                ],
+                "metallicFactor" : 0
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.017",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.014",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 208,
+            "max" : [
+                -2.0454318523406982,
+                0.9665778875350952,
+                -0.0344393253326416
+            ],
+            "min" : [
+                -3.429265022277832,
+                0.6720445156097412,
+                -1.3867301940917969
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 208,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 208,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 312,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 48,
+            "max" : [
+                -1.9786856174468994,
+                0.8502194285392761,
+                -1.7881393432617188e-07
+            ],
+            "min" : [
+                -3.464123010635376,
+                0.826354444026947,
+                -1.4410014152526855
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 72,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 89,
+            "max" : [
+                -3.430622100830078,
+                1,
+                -1.3838505744934082
+            ],
+            "min" : [
+                -3.4887571334838867,
+                0,
+                -1.4419859647750854
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 89,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 89,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 348,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 2496,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2496,
+            "byteOffset" : 2496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1664,
+            "byteOffset" : 4992
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 624,
+            "byteOffset" : 6656
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 7280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 7856
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 384,
+            "byteOffset" : 8432
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 8816
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1068,
+            "byteOffset" : 8960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1068,
+            "byteOffset" : 10028
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 712,
+            "byteOffset" : 11096
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 696,
+            "byteOffset" : 11808
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 12504,
+            "uri" : "edap-fence-wood_LOD01.bin"
+        }
+    ]
+}

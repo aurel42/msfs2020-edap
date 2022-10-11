@@ -28,7 +28,7 @@
     ],
     "materials" : [
         {
-            "name" : "EDAP paint blue rusted",
+            "name" : "EDAP PBR paint blue rusted",
             "normalTexture" : {
                 "index" : 0
             },
@@ -53,7 +53,7 @@
             "alphaCutoff" : 0.5,
             "alphaMode" : "MASK",
             "doubleSided" : true,
-            "name" : "EDAP metal wire mesh fence",
+            "name" : "EDAP PBR metal wire mesh fence",
             "normalTexture" : {
                 "index" : 3
             },
@@ -157,7 +157,7 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 42,
+            "count" : 36,
             "max" : [
                 0.03013595938682556,
                 1.600000023841858,
@@ -173,19 +173,19 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 42,
+            "count" : 36,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 42,
+            "count" : 36,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 96,
+            "count" : 84,
             "type" : "SCALAR"
         },
         {
@@ -226,43 +226,43 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 504,
+            "byteLength" : 432,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 504,
-            "byteOffset" : 504
+            "byteLength" : 432,
+            "byteOffset" : 432
         },
         {
             "buffer" : 0,
-            "byteLength" : 336,
-            "byteOffset" : 1008
+            "byteLength" : 288,
+            "byteOffset" : 864
         },
         {
             "buffer" : 0,
-            "byteLength" : 192,
-            "byteOffset" : 1344
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 48,
-            "byteOffset" : 1536
+            "byteLength" : 168,
+            "byteOffset" : 1152
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 1584
+            "byteOffset" : 1320
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 1368
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 1632
+            "byteOffset" : 1416
         },
         {
             "buffer" : 0,
             "byteLength" : 12,
-            "byteOffset" : 1664
+            "byteOffset" : 1448
         }
     ],
     "samplers" : [
@@ -273,7 +273,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 1676,
+            "byteLength" : 1460,
             "uri" : "edap-fence_LOD00.bin"
         }
     ]

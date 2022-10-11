@@ -33,8 +33,7 @@
                 13,
                 14,
                 15,
-                16,
-                17
+                16
             ]
         }
     ],
@@ -121,24 +120,11 @@
         {
             "mesh" : 16,
             "name" : "aluminium skin.001"
-        },
-        {
-            "name" : "Box Collision.002",
-            "scale" : [
-                6.722169876098633,
-                2.434116840362549,
-                8.623141288757324
-            ],
-            "translation" : [
-                0,
-                2.174362897872925,
-                0
-            ]
         }
     ],
     "materials" : [
         {
-            "name" : "EDAP plaster painted white",
+            "name" : "EDAP PBR plaster painted white",
             "normalTexture" : {
                 "index" : 0
             },
@@ -162,7 +148,7 @@
             }
         },
         {
-            "name" : "EDAP hangar for front",
+            "name" : "EDAP REF hangar for front",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 3
@@ -171,7 +157,7 @@
             }
         },
         {
-            "name" : "EDAP POC MiG-29",
+            "name" : "EDAP DCL MiG-29",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5039643049240112,
@@ -209,7 +195,7 @@
             }
         },
         {
-            "name" : "puzzle_1",
+            "name" : "EDAP DCL puzzle 1",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -225,7 +211,7 @@
             }
         },
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.7024102210998535,
@@ -238,7 +224,7 @@
             }
         },
         {
-            "name" : "puzzle_2",
+            "name" : "EDAP DCL puzzle 2",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -254,7 +240,7 @@
             }
         },
         {
-            "name" : "puzzle_3",
+            "name" : "EDAP DCL puzzle 3",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -270,7 +256,7 @@
             }
         },
         {
-            "name" : "puzzle_4",
+            "name" : "EDAP DCL puzzle 4",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -286,7 +272,7 @@
             }
         },
         {
-            "name" : "puzzle_5",
+            "name" : "EDAP DCL puzzle 5",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -302,7 +288,7 @@
             }
         },
         {
-            "name" : "puzzle_6",
+            "name" : "EDAP DCL puzzle 6",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -318,7 +304,7 @@
             }
         },
         {
-            "name" : "EDAP pvc gray",
+            "name" : "EDAP COL pvc gray",
             "normalTexture" : {
                 "index" : 14
             },
@@ -337,7 +323,7 @@
             }
         },
         {
-            "name" : "EDAP metal drain pipe",
+            "name" : "EDAP COL metal drain pipe",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2727339565753937,
@@ -355,7 +341,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP no light",
+            "name" : "EDAP COL no light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.02208416536450386,
@@ -366,7 +352,7 @@
             }
         },
         {
-            "name" : "EDAP metal light",
+            "name" : "EDAP COL metal light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5291834473609924,
@@ -379,7 +365,7 @@
             }
         },
         {
-            "name" : "FORwerk orange",
+            "name" : "EDAP COL FORwerk orange",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.6831086277961731,
@@ -392,7 +378,7 @@
             }
         },
         {
-            "name" : "EDAP metal dark.002",
+            "name" : "EDAP COL metal dark",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.0692683756351471,
@@ -405,7 +391,7 @@
             }
         },
         {
-            "name" : "EDAP hangar for aluminium skin.002",
+            "name" : "EDAP PBR hangar for aluminium skin",
             "normalTexture" : {
                 "index" : 16
             },

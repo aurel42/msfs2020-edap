@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInfo guid="{837a0734-1104-4f22-ba51-fb7fe01ccf0a}" version="1.1">
 	<LODS>
-		<LOD minSize="0" ModelFile="edap-gate-inner_LOD00.gltf"/>
+		<LOD minSize="8" ModelFile="edap-gate-inner_LOD00.gltf"/>
+		<LOD minSize="4" ModelFile="edap-gate-inner_LOD01.gltf"/>
 	</LODS>
 </ModelInfo>

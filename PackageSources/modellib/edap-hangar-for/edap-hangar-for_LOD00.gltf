@@ -45,7 +45,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "body.001"
+            "name" : "body"
         },
         {
             "mesh" : 1,
@@ -81,7 +81,7 @@
         },
         {
             "mesh" : 9,
-            "name" : "corners.001"
+            "name" : "corners"
         },
         {
             "mesh" : 10,
@@ -193,10 +193,10 @@
         },
         {
             "mesh" : 28,
-            "name" : "aluminium skin.004"
+            "name" : "aluminium skin"
         },
         {
-            "name" : "Box Collision.001",
+            "name" : "Box Collision",
             "scale" : [
                 6.722169876098633,
                 2.434116840362549,
@@ -211,7 +211,7 @@
     ],
     "materials" : [
         {
-            "name" : "EDAP plaster painted white",
+            "name" : "EDAP PBR plaster painted white",
             "normalTexture" : {
                 "index" : 0
             },
@@ -235,7 +235,7 @@
             }
         },
         {
-            "name" : "EDAP hangar for front",
+            "name" : "EDAP REF hangar for front",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 3
@@ -244,7 +244,7 @@
             }
         },
         {
-            "name" : "EDAP POC MiG-29",
+            "name" : "EDAP DCL MiG-29",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5039643049240112,
@@ -258,12 +258,9 @@
             }
         },
         {
-            "name" : "EDAP hangar for aluminium skin",
+            "name" : "EDAP PBR hangar for aluminium skin",
             "normalTexture" : {
                 "index" : 5
-            },
-            "occlusionTexture" : {
-                "index" : 6
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -273,16 +270,16 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 7
+                    "index" : 6
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 6
+                    "index" : 7
                 }
             }
         },
         {
-            "name" : "EDAP metal light",
+            "name" : "EDAP COL metal light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5291834473609924,
@@ -295,7 +292,7 @@
             }
         },
         {
-            "name" : "puzzle_1",
+            "name" : "EDAP DCL puzzle 1",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -311,7 +308,7 @@
             }
         },
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.7024102210998535,
@@ -324,7 +321,7 @@
             }
         },
         {
-            "name" : "puzzle_2",
+            "name" : "EDAP DCL puzzle 2",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -340,7 +337,7 @@
             }
         },
         {
-            "name" : "puzzle_3",
+            "name" : "EDAP DCL puzzle 3",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -356,7 +353,7 @@
             }
         },
         {
-            "name" : "puzzle_4",
+            "name" : "EDAP DCL puzzle 4",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -372,7 +369,7 @@
             }
         },
         {
-            "name" : "puzzle_5",
+            "name" : "EDAP DCL puzzle 5",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -388,7 +385,7 @@
             }
         },
         {
-            "name" : "puzzle_6",
+            "name" : "EDAP DCL puzzle 6",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2622504234313965,
@@ -404,7 +401,7 @@
             }
         },
         {
-            "name" : "EDAP pvc gray",
+            "name" : "EDAP COL pvc gray",
             "normalTexture" : {
                 "index" : 14
             },
@@ -423,7 +420,7 @@
             }
         },
         {
-            "name" : "EDAP metal drain pipe",
+            "name" : "EDAP COL metal drain pipe",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.2727339565753937,
@@ -441,7 +438,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP no light",
+            "name" : "EDAP COL no light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.02208416536450386,
@@ -452,7 +449,7 @@
             }
         },
         {
-            "name" : "FORwerk orange",
+            "name" : "EDAP COL FORwerk orange",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.6831086277961731,
@@ -465,7 +462,7 @@
             }
         },
         {
-            "name" : "EDAP metal dark.001",
+            "name" : "EDAP COL metal dark",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.0692683756351471,
@@ -475,27 +472,6 @@
                 ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.40000003576278687
-            }
-        },
-        {
-            "name" : "EDAP hangar for aluminium skin.001",
-            "normalTexture" : {
-                "index" : 16
-            },
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.9999988079071045,
-                    0.9999989867210388,
-                    1,
-                    1
-                ],
-                "baseColorTexture" : {
-                    "index" : 17
-                },
-                "metallicFactor" : 0,
-                "metallicRoughnessTexture" : {
-                    "index" : 18
-                }
             }
         }
     ],
@@ -1082,7 +1058,7 @@
                         "TEXCOORD_0" : 176
                     },
                     "indices" : 177,
-                    "material" : 17
+                    "material" : 3
                 }
             ]
         }
@@ -1151,18 +1127,6 @@
         {
             "sampler" : 0,
             "source" : 15
-        },
-        {
-            "sampler" : 0,
-            "source" : 16
-        },
-        {
-            "sampler" : 0,
-            "source" : 17
-        },
-        {
-            "sampler" : 0,
-            "source" : 18
         }
     ],
     "images" : [
@@ -1193,18 +1157,18 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "hangar_for_skin-normal_flipped",
-            "uri" : "hangar_for_skin-normal_flipped.png"
+            "name" : "hangar_for_skin-normal_flipped.png",
+            "uri" : "hangar_for_skin-normal_flipped_png.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "hangar_for_skin-composite",
-            "uri" : "hangar_for_skin-composite.png"
+            "name" : "hangar_for_skin_diffuse.png",
+            "uri" : "hangar_for_skin_diffuse_png.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "hangar_for_skin_diffuse",
-            "uri" : "hangar_for_skin_diffuse.png"
+            "name" : "hangar_for_skin-composite.png",
+            "uri" : "hangar_for_skin-composite_png.png"
         },
         {
             "mimeType" : "image/png",
@@ -1245,21 +1209,6 @@
             "mimeType" : "image/png",
             "name" : "Plastic_PolypropyleneRough_1K_composite",
             "uri" : "Plastic_PolypropyleneRough_1K_composite.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "hangar_for_skin-normal_flipped.png",
-            "uri" : "hangar_for_skin-normal_flipped_png.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "hangar_for_skin_diffuse.png",
-            "uri" : "hangar_for_skin_diffuse_png.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "hangar_for_skin-composite.png",
-            "uri" : "hangar_for_skin-composite_png.png"
         }
     ],
     "accessors" : [

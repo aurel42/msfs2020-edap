@@ -26,7 +26,8 @@
                 5,
                 6,
                 7,
-                8
+                8,
+                9
             ]
         }
     ],
@@ -57,30 +58,33 @@
         },
         {
             "mesh" : 6,
-            "name" : "container door",
-            "translation" : [
-                -0.03374163806438446,
-                0,
-                0
-            ]
+            "name" : "container door"
         },
         {
             "mesh" : 7,
-            "name" : "short side rust",
-            "translation" : [
-                0.008315305225551128,
-                0,
-                0
-            ]
+            "name" : "short side rust"
         },
         {
             "mesh" : 8,
             "name" : "container roof grime"
+        },
+        {
+            "name" : "Box Collision",
+            "scale" : [
+                3.1122348308563232,
+                1.3509483337402344,
+                1.2863868474960327
+            ],
+            "translation" : [
+                0,
+                1.3221983909606934,
+                0
+            ]
         }
     ],
     "materials" : [
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5204225778579712,
@@ -93,7 +97,7 @@
             }
         },
         {
-            "name" : "EDAP paint blue",
+            "name" : "EDAP COL paint blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.045185983180999756,
@@ -121,7 +125,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP decal rust 2",
+            "name" : "EDAP DCL rust 2",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 0
@@ -141,7 +145,7 @@
                     "occlusionBlendFactor" : 1
                 }
             },
-            "name" : "EDAP container door",
+            "name" : "EDAP DCL container door",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 1
@@ -164,7 +168,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP dirt overlay",
+            "name" : "EDAP DCL dirt overlay",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 2
@@ -335,7 +339,7 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 2652,
+            "count" : 2520,
             "max" : [
                 3.049999952316284,
                 2.6245784759521484,
@@ -351,19 +355,19 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 2652,
+            "count" : 2520,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 2652,
+            "count" : 2520,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 4362,
+            "count" : 3972,
             "type" : "SCALAR"
         },
         {
@@ -529,12 +533,12 @@
             "componentType" : 5126,
             "count" : 4,
             "max" : [
-                -3.051090955734253,
+                -3.0848326683044434,
                 2.5899999141693115,
                 1.218207836151123
             ],
             "min" : [
-                -3.051090955734253,
+                -3.0848326683044434,
                 0,
                 -1.2200000286102295
             ],
@@ -563,12 +567,12 @@
             "componentType" : 5126,
             "count" : 32,
             "max" : [
-                3.049999952316284,
+                3.0583152770996094,
                 2.5899999141693115,
                 0.9631580114364624
             ],
             "min" : [
-                3.049999952316284,
+                3.0583152770996094,
                 0,
                 -0.9631580114364624
             ],
@@ -630,173 +634,173 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 31824,
+            "byteLength" : 30240,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 31824,
-            "byteOffset" : 31824
+            "byteLength" : 30240,
+            "byteOffset" : 30240
         },
         {
             "buffer" : 0,
-            "byteLength" : 21216,
-            "byteOffset" : 63648
+            "byteLength" : 20160,
+            "byteOffset" : 60480
         },
         {
             "buffer" : 0,
-            "byteLength" : 8724,
-            "byteOffset" : 84864
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 93588
+            "byteLength" : 7944,
+            "byteOffset" : 80640
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 94740
+            "byteOffset" : 88584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1152,
+            "byteOffset" : 89736
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 95892
+            "byteOffset" : 90888
         },
         {
             "buffer" : 0,
             "byteLength" : 288,
-            "byteOffset" : 96660
+            "byteOffset" : 91656
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 96948
+            "byteOffset" : 91944
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 98100
+            "byteOffset" : 93096
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 99252
+            "byteOffset" : 94248
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 100020
+            "byteOffset" : 95016
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 101172
+            "byteOffset" : 96168
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 102324
+            "byteOffset" : 97320
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 103092
+            "byteOffset" : 98088
         },
         {
             "buffer" : 0,
             "byteLength" : 1152,
-            "byteOffset" : 104244
+            "byteOffset" : 99240
         },
         {
             "buffer" : 0,
             "byteLength" : 768,
-            "byteOffset" : 105396
+            "byteOffset" : 100392
         },
         {
             "buffer" : 0,
             "byteLength" : 288,
-            "byteOffset" : 106164
+            "byteOffset" : 101160
         },
         {
             "buffer" : 0,
             "byteLength" : 1200,
-            "byteOffset" : 106452
+            "byteOffset" : 101448
         },
         {
             "buffer" : 0,
             "byteLength" : 1200,
-            "byteOffset" : 107652
+            "byteOffset" : 102648
         },
         {
             "buffer" : 0,
             "byteLength" : 800,
-            "byteOffset" : 108852
+            "byteOffset" : 103848
         },
         {
             "buffer" : 0,
             "byteLength" : 300,
-            "byteOffset" : 109652
+            "byteOffset" : 104648
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 109952
+            "byteOffset" : 104948
         },
         {
             "buffer" : 0,
             "byteLength" : 48,
-            "byteOffset" : 110000
+            "byteOffset" : 104996
         },
         {
             "buffer" : 0,
             "byteLength" : 32,
-            "byteOffset" : 110048
+            "byteOffset" : 105044
         },
         {
             "buffer" : 0,
             "byteLength" : 12,
-            "byteOffset" : 110080
+            "byteOffset" : 105076
         },
         {
             "buffer" : 0,
             "byteLength" : 384,
-            "byteOffset" : 110092
+            "byteOffset" : 105088
         },
         {
             "buffer" : 0,
             "byteLength" : 384,
-            "byteOffset" : 110476
+            "byteOffset" : 105472
         },
         {
             "buffer" : 0,
             "byteLength" : 256,
-            "byteOffset" : 110860
+            "byteOffset" : 105856
         },
         {
             "buffer" : 0,
             "byteLength" : 96,
-            "byteOffset" : 111116
+            "byteOffset" : 106112
         },
         {
             "buffer" : 0,
             "byteLength" : 2160,
-            "byteOffset" : 111212
+            "byteOffset" : 106208
         },
         {
             "buffer" : 0,
             "byteLength" : 2160,
-            "byteOffset" : 113372
+            "byteOffset" : 108368
         },
         {
             "buffer" : 0,
             "byteLength" : 1440,
-            "byteOffset" : 115532
+            "byteOffset" : 110528
         },
         {
             "buffer" : 0,
             "byteLength" : 540,
-            "byteOffset" : 116972
+            "byteOffset" : 111968
         }
     ],
     "samplers" : [
@@ -807,7 +811,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 117512,
+            "byteLength" : 112508,
             "uri" : "edap-container-20ft-var_LOD00.bin"
         }
     ]

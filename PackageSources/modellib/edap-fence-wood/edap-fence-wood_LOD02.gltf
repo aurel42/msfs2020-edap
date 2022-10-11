@@ -1,0 +1,236 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.8.19 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.016"
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.017",
+            "rotation" : [
+                0,
+                0,
+                0,
+                -1
+            ],
+            "translation" : [
+                0.00047050975263118744,
+                -0.46797460317611694,
+                -0.005325388163328171
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.018",
+            "rotation" : [
+                0,
+                0.3754581809043884,
+                0,
+                0.9268393516540527
+            ],
+            "translation" : [
+                1.4569473266601562,
+                0,
+                -1.3895665407180786
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.019",
+            "rotation" : [
+                0,
+                0.3754581809043884,
+                0,
+                0.9268393516540527
+            ],
+            "translation" : [
+                3.4767377376556396,
+                0,
+                -1.3895665407180786
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.020",
+            "rotation" : [
+                0,
+                0.7087856531143188,
+                0,
+                0.705423891544342
+            ],
+            "translation" : [
+                3.446664333343506,
+                0,
+                -3.4698173999786377
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.021",
+            "rotation" : [
+                0,
+                -0.37921833992004395,
+                0,
+                -0.9253072142601013
+            ],
+            "translation" : [
+                1.4528647661209106,
+                -0.4679746627807617,
+                -1.4094409942626953
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.022",
+            "rotation" : [
+                0,
+                -0.37921833992004395,
+                0,
+                -0.9253072142601013
+            ],
+            "translation" : [
+                3.477992296218872,
+                -0.46797460317611694,
+                -1.4214437007904053
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "wooden beam.023",
+            "rotation" : [
+                0,
+                -0.7096836566925049,
+                0,
+                -0.704520583152771
+            ],
+            "translation" : [
+                3.4342336654663086,
+                -0.46797460317611694,
+                -3.4824953079223633
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "EDAP COL wood dark",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.01606643944978714,
+                    0.00810325425118208,
+                    0.002232503378763795,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.018",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 18,
+            "max" : [
+                -2.0541296005249023,
+                0.94371098279953,
+                -0.04334689676761627
+            ],
+            "min" : [
+                -3.4204776287078857,
+                0.6864504218101501,
+                -1.37720787525177
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 18,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 18,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 18,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 216,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 216,
+            "byteOffset" : 216
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 432
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 576
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 612,
+            "uri" : "edap-fence-wood_LOD02.bin"
+        }
+    ]
+}

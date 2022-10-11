@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInfo guid="{42873013-11c2-4e16-9f86-7c0bebdfabd9}" version="1.1">
 	<LODS>
-		<LOD minSize="0" ModelFile="edap-hangar-b_LOD00.gltf"/>
+		<LOD minSize="32" ModelFile="edap-hangar-b_LOD00.gltf"/>
+		<LOD minSize="16" ModelFile="edap-hangar-b_LOD01.gltf"/>
+		<LOD minSize="8" ModelFile="edap-hangar-b_LOD02.gltf"/>
+		<LOD minSize="4" ModelFile="edap-hangar-b_LOD03.gltf"/>
 	</LODS>
 </ModelInfo>

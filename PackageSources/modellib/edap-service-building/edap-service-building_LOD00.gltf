@@ -1,6 +1,5 @@
 {
     "asset" : {
-        "copyright" : "aurel42",
         "extensions" : {
             "ASOBO_normal_map_convention" : {
                 "tangent_space_convention" : "DirectX"
@@ -11,7 +10,6 @@
     },
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
-        "ASOBO_tags",
         "ASOBO_material_shadow_options",
         "ASOBO_material_blend_gbuffer"
     ],
@@ -31,7 +29,8 @@
                 8,
                 9,
                 10,
-                11
+                11,
+                12
             ]
         }
     ],
@@ -83,11 +82,24 @@
         {
             "mesh" : 11,
             "name" : "roof imperfections"
+        },
+        {
+            "name" : "Box Collision",
+            "scale" : [
+                5.915290355682373,
+                2.6702351570129395,
+                4.305685043334961
+            ],
+            "translation" : [
+                0.8581548929214478,
+                2.673595428466797,
+                -0.7499071359634399
+            ]
         }
     ],
     "materials" : [
         {
-            "name" : "EDAP paint dark blue",
+            "name" : "EDAP COL paint dark blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.0032148670870810747,
@@ -99,14 +111,7 @@
             }
         },
         {
-            "extensions" : {
-                "ASOBO_tags" : {
-                    "tags" : [
-                        "Collision"
-                    ]
-                }
-            },
-            "name" : "EDAP roofing bitumen",
+            "name" : "EDAP PBR roofing bitumen",
             "normalTexture" : {
                 "index" : 0
             },
@@ -127,15 +132,15 @@
             }
         },
         {
-            "name" : "EDAP plaster painted white",
+            "name" : "EDAP PBR plaster painted white",
             "normalTexture" : {
                 "index" : 3
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
+                    0.9999988079071045,
+                    0.9999989867210388,
+                    1,
                     1
                 ],
                 "baseColorTexture" : {
@@ -148,7 +153,7 @@
             }
         },
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5204225778579712,
@@ -161,7 +166,7 @@
             }
         },
         {
-            "name" : "EDAP paint light blue",
+            "name" : "EDAP COL paint light blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.27469602227211,
@@ -174,21 +179,25 @@
             }
         },
         {
-            "extensions" : {
-                "ASOBO_material_shadow_options" : {
-                    "noCastShadow" : true
-                }
+            "name" : "EDAP PBR service building door",
+            "normalTexture" : {
+                "index" : 6
             },
-            "name" : "EDAP service building decal door",
+            "occlusionTexture" : {
+                "index" : 7
+            },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 6
+                    "index" : 8
                 },
-                "metallicFactor" : 0
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 7
+                }
             }
         },
         {
-            "name" : "EDAP service building paint white vent",
+            "name" : "EDAP COL service building paint white vent",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.3762546479701996,
@@ -206,7 +215,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP no light",
+            "name" : "EDAP COL no light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.02208416536450386,
@@ -232,15 +241,15 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP decal dirt",
+            "name" : "EDAP DCL dirt",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 7
+                    "index" : 9
                 }
             }
         },
         {
-            "name" : "EDAP service building paint light blue",
+            "name" : "EDAP COL service building paint light blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.27469602227211,
@@ -509,43 +518,61 @@
         {
             "sampler" : 0,
             "source" : 7
+        },
+        {
+            "sampler" : 0,
+            "source" : 8
+        },
+        {
+            "sampler" : 0,
+            "source" : 9
         }
     ],
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_normal",
-            "uri" : "rooftiles_bitumen_normal.png"
+            "name" : "rooftiles_bitumen-normal_flipped",
+            "uri" : "rooftiles_bitumen-normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_diffuse",
-            "uri" : "rooftiles_bitumen_diffuse.png"
+            "name" : "rooftiles_bitumen-albedo",
+            "uri" : "rooftiles_bitumen-albedo.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_composite",
-            "uri" : "rooftiles_bitumen_composite.png"
+            "name" : "rooftiles_bitumen-composite",
+            "uri" : "rooftiles_bitumen-composite.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plaster_Painted_1K_normal",
-            "uri" : "Plaster_Painted_1K_normal.png"
+            "name" : "plaster_Normal",
+            "uri" : "plaster_Normal.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plaster_Painted_1K_albedo",
-            "uri" : "Plaster_Painted_1K_albedo.png"
+            "name" : "plaster_Base_Color",
+            "uri" : "plaster_Base_Color.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Plaster_Painted_1K_comp",
-            "uri" : "Plaster_Painted_1K_comp.png"
+            "name" : "plaster_composite",
+            "uri" : "plaster_composite.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "edap-service-building-door",
-            "uri" : "edap-service-building-door.png"
+            "name" : "edap-service-building-door-normal_flipped",
+            "uri" : "edap-service-building-door-normal_flipped.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "edap-service-building-door-composite",
+            "uri" : "edap-service-building-door-composite.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "edap-service-building-door-albedo",
+            "uri" : "edap-service-building-door-albedo.png"
         },
         {
             "mimeType" : "image/png",

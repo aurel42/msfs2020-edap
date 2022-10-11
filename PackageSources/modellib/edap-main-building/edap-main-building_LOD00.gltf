@@ -348,12 +348,12 @@
         },
         {
             "mesh" : 10,
-            "name" : "Fallschirmtrockenturm.001"
+            "name" : "Fallschirmtrockenturm logo"
         }
     ],
     "materials" : [
         {
-            "name" : "EDAP main building west",
+            "name" : "EDAP REF main building west",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 0
@@ -362,7 +362,7 @@
             }
         },
         {
-            "name" : "EDAP plaster white",
+            "name" : "EDAP PBR plaster white",
             "normalTexture" : {
                 "index" : 1
             },
@@ -380,7 +380,7 @@
             }
         },
         {
-            "name" : "EDAP roofing bitumen",
+            "name" : "EDAP PBR roofing bitumen",
             "normalTexture" : {
                 "index" : 4
             },
@@ -401,7 +401,7 @@
             }
         },
         {
-            "name" : "EDAP main building south",
+            "name" : "EDAP REF main building south",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 7
@@ -421,7 +421,7 @@
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
-            "name" : "EDAP main building double door",
+            "name" : "EDAP PBR main building double door",
             "normalTexture" : {
                 "index" : 9
             },
@@ -439,7 +439,7 @@
             }
         },
         {
-            "name" : "EDAP pvc gray",
+            "name" : "EDAP COL pvc gray",
             "normalTexture" : {
                 "index" : 12
             },
@@ -458,7 +458,7 @@
             }
         },
         {
-            "name" : "edap-tower-west",
+            "name" : "EDAP REF tower west",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 14
@@ -478,7 +478,7 @@
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
-            "name" : "EDAP tower window",
+            "name" : "EDAP PBR tower window",
             "normalTexture" : {
                 "index" : 16
             },
@@ -496,7 +496,7 @@
             }
         },
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.7024102210998535,
@@ -509,7 +509,7 @@
             }
         },
         {
-            "name" : "EDAP paint dark blue",
+            "name" : "EDAP COL paint dark blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0,
@@ -530,7 +530,7 @@
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
-            "name" : "EDAP main building white bulb",
+            "name" : "EDAP COL main building white bulb",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.8505738973617554,
@@ -543,39 +543,48 @@
             }
         },
         {
-            "name" : "EDAP bird house plywood",
-            "pbrMetallicRoughness" : {
-                "baseColorTexture" : {
-                    "index" : 19
-                },
-                "metallicFactor" : 0
-            }
-        },
-        {
-            "name" : "EDAP bird house birch",
+            "name" : "EDAP PBR bird house plywood",
             "normalTexture" : {
-                "index" : 20
+                "index" : 19
             },
             "occlusionTexture" : {
-                "index" : 21
+                "index" : 20
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 22
+                    "index" : 21
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 21
+                    "index" : 20
                 }
             }
         },
         {
-            "name" : "EDAP bird house roof",
+            "name" : "EDAP PBR bird house birch",
             "normalTexture" : {
-                "index" : 23
+                "index" : 22
             },
             "occlusionTexture" : {
-                "index" : 24
+                "index" : 23
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 24
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 23
+                }
+            }
+        },
+        {
+            "name" : "EDAP PBR bird house roof",
+            "normalTexture" : {
+                "index" : 25
+            },
+            "occlusionTexture" : {
+                "index" : 26
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -585,11 +594,11 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 25
+                    "index" : 27
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 24
+                    "index" : 26
                 }
             }
         },
@@ -606,7 +615,7 @@
                     "occlusionBlendFactor" : 1
                 }
             },
-            "name" : "EDAP logo",
+            "name" : "EDAP DCL logo",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.9999988079071045,
@@ -615,11 +624,11 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 26
+                    "index" : 28
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 27
+                    "index" : 29
                 }
             }
         }
@@ -1009,6 +1018,14 @@
         {
             "sampler" : 0,
             "source" : 27
+        },
+        {
+            "sampler" : 0,
+            "source" : 28
+        },
+        {
+            "sampler" : 0,
+            "source" : 29
         }
     ],
     "images" : [
@@ -1034,18 +1051,18 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_normal_flipped",
-            "uri" : "rooftiles_bitumen_normal_flipped.png"
+            "name" : "rooftiles_bitumen-normal_flipped",
+            "uri" : "rooftiles_bitumen-normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_diffuseOriginal",
-            "uri" : "rooftiles_bitumen_diffuseOriginal.png"
+            "name" : "rooftiles_bitumen-albedo",
+            "uri" : "rooftiles_bitumen-albedo.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_composite",
-            "uri" : "rooftiles_bitumen_composite.png"
+            "name" : "rooftiles_bitumen-composite",
+            "uri" : "rooftiles_bitumen-composite.png"
         },
         {
             "mimeType" : "image/png",
@@ -1106,6 +1123,16 @@
             "mimeType" : "image/png",
             "name" : "edap_main_building_tower_window-albedo",
             "uri" : "edap_main_building_tower_window-albedo.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "edap_bird_house_plywood_normal_flipped",
+            "uri" : "edap_bird_house_plywood_normal_flipped.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "edap_bird_house_plywood_composite",
+            "uri" : "edap_bird_house_plywood_composite.png"
         },
         {
             "mimeType" : "image/png",

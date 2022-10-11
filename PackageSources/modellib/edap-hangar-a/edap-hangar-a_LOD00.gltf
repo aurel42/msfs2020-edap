@@ -35,7 +35,8 @@
                 41,
                 42,
                 43,
-                44
+                44,
+                45
             ]
         }
     ],
@@ -430,6 +431,19 @@
                 4.100583076477051,
                 -2.091742515563965
             ]
+        },
+        {
+            "name" : "Box Collision",
+            "scale" : [
+                13.502471923828125,
+                3.079157829284668,
+                8.85161304473877
+            ],
+            "translation" : [
+                0,
+                2.8799285888671875,
+                0
+            ]
         }
     ],
     "materials" : [
@@ -445,7 +459,7 @@
             "extensions" : {
                 "ASOBO_material_day_night_switch" : {}
             },
-            "name" : "EDAP glass blocks",
+            "name" : "EDAP EMS glass blocks",
             "normalTexture" : {
                 "index" : 1
             },
@@ -478,7 +492,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP decal rust",
+            "name" : "EDAP DCL rust",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 4
@@ -487,7 +501,7 @@
             }
         },
         {
-            "name" : "EDAP paint light blue",
+            "name" : "EDAP COL paint light blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.27469602227211,
@@ -518,7 +532,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP hole in wall",
+            "name" : "EDAP DCL hole in wall",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 5
@@ -526,7 +540,7 @@
             }
         },
         {
-            "name" : "EDAP plaster painted blue",
+            "name" : "EDAP PBR plaster painted blue",
             "normalTexture" : {
                 "index" : 6,
                 "scale" : 0.44999998807907104
@@ -551,7 +565,7 @@
             }
         },
         {
-            "name" : "EDAP paint white",
+            "name" : "EDAP COL paint white",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5204225778579712,
@@ -564,7 +578,7 @@
             }
         },
         {
-            "name" : "EDAP plastic grey",
+            "name" : "EDAP COL plastic grey",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.41793930530548096,
@@ -585,7 +599,7 @@
                     "glassDeformationFactor" : 0
                 }
             },
-            "name" : "EDAP webcam glass",
+            "name" : "EDAP COL webcam glass",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     1,
@@ -606,7 +620,7 @@
             }
         },
         {
-            "name" : "EDAP plaster painted blue line",
+            "name" : "EDAP PBR plaster painted blue line",
             "normalTexture" : {
                 "index" : 10,
                 "scale" : 0.44999998807907104
@@ -631,7 +645,7 @@
             }
         },
         {
-            "name" : "EDAP paint dark blue",
+            "name" : "EDAP COL paint dark blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.0032148670870810747,
@@ -643,7 +657,7 @@
             }
         },
         {
-            "name" : "EDAP plaster painted white",
+            "name" : "EDAP COL plaster painted white",
             "normalTexture" : {
                 "index" : 13
             },
@@ -652,14 +666,11 @@
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
+                    0.4043368995189667,
+                    0.4043368995189667,
+                    0.4043368995189667,
                     1
                 ],
-                "baseColorTexture" : {
-                    "index" : 15
-                },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
                     "index" : 14
@@ -667,13 +678,13 @@
             }
         },
         {
-            "name" : "EDAP plaster painted blue line tinted",
+            "name" : "EDAP PBR plaster painted blue line tinted",
             "normalTexture" : {
-                "index" : 16,
+                "index" : 15,
                 "scale" : 0.44999998807907104
             },
             "occlusionTexture" : {
-                "index" : 17
+                "index" : 16
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -683,44 +694,44 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 18
+                    "index" : 17
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 17
+                    "index" : 16
                 }
             }
         },
         {
-            "name" : "EDAP sign no matches",
+            "name" : "EDAP DCL sign no matches",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 19
+                    "index" : 18
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.20999999344348907
             }
         },
         {
-            "name" : "EDAP wood planks light",
+            "name" : "EDAP PBR wood planks light",
             "normalTexture" : {
-                "index" : 20
+                "index" : 19
             },
             "occlusionTexture" : {
-                "index" : 21
+                "index" : 20
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 22
+                    "index" : 21
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 21
+                    "index" : 20
                 }
             }
         },
         {
-            "name" : "EDAP metal dark",
+            "name" : "EDAP COL metal dark",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.012338133528828621,
@@ -733,12 +744,12 @@
             }
         },
         {
-            "name" : "EDAP roofing bitumen",
+            "name" : "EDAP PBR roofing bitumen",
             "normalTexture" : {
-                "index" : 23
+                "index" : 22
             },
             "occlusionTexture" : {
-                "index" : 24
+                "index" : 23
             },
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -748,36 +759,24 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 25
+                    "index" : 24
                 },
                 "metallicFactor" : 0,
                 "metallicRoughnessTexture" : {
-                    "index" : 24
+                    "index" : 23
                 }
             }
         },
         {
-            "name" : "EDAP pvc gray",
-            "normalTexture" : {
-                "index" : 26
-            },
-            "occlusionTexture" : {
-                "index" : 27
-            },
+            "name" : "EDAP COL pvc gray",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.9999988079071045,
-                    0.9999989867210388,
-                    1,
+                    0.02924082800745964,
+                    0.02924082800745964,
+                    0.02924082800745964,
                     1
                 ],
-                "baseColorTexture" : {
-                    "index" : 28
-                },
                 "metallicFactor" : 0,
-                "metallicRoughnessTexture" : {
-                    "index" : 27
-                },
                 "roughnessFactor" : 0.809999942779541
             }
         },
@@ -787,7 +786,7 @@
                     "noCastShadow" : true
                 }
             },
-            "name" : "EDAP no light",
+            "name" : "EDAP COL no light",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.02208416536450386,
@@ -1681,19 +1680,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 7
+        },
+        {
+            "sampler" : 0,
             "source" : 11
         },
         {
             "sampler" : 0,
             "source" : 12
-        },
-        {
-            "sampler" : 0,
-            "source" : 6
-        },
-        {
-            "sampler" : 0,
-            "source" : 7
         },
         {
             "sampler" : 0,
@@ -1705,11 +1700,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 11
+            "source" : 7
         },
         {
             "sampler" : 0,
-            "source" : 12
+            "source" : 11
         },
         {
             "sampler" : 0,
@@ -1738,18 +1733,6 @@
         {
             "sampler" : 0,
             "source" : 20
-        },
-        {
-            "sampler" : 0,
-            "source" : 21
-        },
-        {
-            "sampler" : 0,
-            "source" : 22
-        },
-        {
-            "sampler" : 0,
-            "source" : 23
         }
     ],
     "images" : [
@@ -1780,8 +1763,38 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "hole_in_wall-alpha",
-            "uri" : "hole_in_wall-alpha.png"
+            "name" : "hole_in_wall-alpha.tif",
+            "uri" : "hole_in_wall-alpha_tif.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "plaster_painted_with_blue_line_normal_d3d",
+            "uri" : "plaster_painted_with_blue_line_normal_d3d.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "plaster_painted_with_blue_line_composite",
+            "uri" : "plaster_painted_with_blue_line_composite.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "plaster_painted_blue_albedo.tif",
+            "uri" : "plaster_painted_blue_albedo_tif.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "webcam.tif",
+            "uri" : "webcam_tif.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "plaster_painted_with_blue_line_normal_d3d.tif",
+            "uri" : "plaster_painted_with_blue_line_normal_d3d_tif.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "plaster_painted_with_blue_line_albedo",
+            "uri" : "plaster_painted_with_blue_line_albedo.png"
         },
         {
             "mimeType" : "image/png",
@@ -1795,38 +1808,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "plaster_painted_blue_albedo",
-            "uri" : "plaster_painted_blue_albedo.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "webcam",
-            "uri" : "webcam.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "plaster_painted_with_blue_line_normal_d3d",
-            "uri" : "plaster_painted_with_blue_line_normal_d3d.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "plaster_painted_with_blue_line_composite.tif",
-            "uri" : "plaster_painted_with_blue_line_composite_tif.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "plaster_painted_with_blue_line_albedo.tif",
-            "uri" : "plaster_painted_with_blue_line_albedo_tif.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Plaster_Painted_1K_albedo",
-            "uri" : "Plaster_Painted_1K_albedo.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "sign_no_matches",
-            "uri" : "sign_no_matches.png"
+            "name" : "sign_no_matches.tif",
+            "uri" : "sign_no_matches_tif.png"
         },
         {
             "mimeType" : "image/png",
@@ -1845,33 +1828,18 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_normal_flipped",
-            "uri" : "rooftiles_bitumen_normal_flipped.png"
+            "name" : "rooftiles_bitumen-normal_flipped",
+            "uri" : "rooftiles_bitumen-normal_flipped.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_composite",
-            "uri" : "rooftiles_bitumen_composite.png"
+            "name" : "rooftiles_bitumen-composite",
+            "uri" : "rooftiles_bitumen-composite.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "rooftiles_bitumen_diffuseOriginal",
-            "uri" : "rooftiles_bitumen_diffuseOriginal.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Plastic_PolypropyleneRough_1K_normal",
-            "uri" : "Plastic_PolypropyleneRough_1K_normal.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Plastic_PolypropyleneRough_1K_composite",
-            "uri" : "Plastic_PolypropyleneRough_1K_composite.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Plastic_PolypropyleneRough_gray_1K_albedo",
-            "uri" : "Plastic_PolypropyleneRough_gray_1K_albedo.png"
+            "name" : "rooftiles_bitumen-albedo",
+            "uri" : "rooftiles_bitumen-albedo.png"
         }
     ],
     "accessors" : [

@@ -2,5 +2,7 @@
 <ModelInfo guid="{b53950c1-fe1b-4cbc-a2a0-7ea8c34d0ec3}" version="1.1">
 	<LODS>
 		<LOD minSize="16" ModelFile="edap-service-building_LOD00.gltf"/>
+		<LOD minSize="8" ModelFile="edap-service-building_LOD01.gltf"/>
+		<LOD minSize="4" ModelFile="edap-service-building_LOD02.gltf"/>
 	</LODS>
 </ModelInfo>

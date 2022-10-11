@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInfo guid="{4ac658e4-f74b-4a5f-a477-83d7147e7906}" version="1.1">
 	<LODS>
-		<LOD minSize="0" ModelFile="edap-helicopter-dolly_LOD00.gltf"/>
+		<LOD minSize="32" ModelFile="edap-helicopter-dolly_LOD00.gltf"/>
+		<LOD minSize="16" ModelFile="edap-helicopter-dolly_LOD01.gltf"/>
+		<LOD minSize="8" ModelFile="edap-helicopter-dolly_LOD02.gltf"/>
+		<LOD minSize="4" ModelFile="edap-helicopter-dolly_LOD03.gltf"/>
 	</LODS>
 </ModelInfo>

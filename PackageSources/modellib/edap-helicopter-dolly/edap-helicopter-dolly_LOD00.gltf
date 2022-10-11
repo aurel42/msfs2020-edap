@@ -165,7 +165,7 @@
     ],
     "materials" : [
         {
-            "name" : "EDAP red metal with bolt",
+            "name" : "EDAP PBR red metal with bolt",
             "normalTexture" : {
                 "index" : 0
             },
@@ -182,7 +182,7 @@
             }
         },
         {
-            "name" : "EDAP wheel rubber",
+            "name" : "EDAP COL wheel rubber",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.11697065085172653,
@@ -194,7 +194,7 @@
             }
         },
         {
-            "name" : "EDAP metal dark",
+            "name" : "EDAP COL metal dark",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.06927287578582764,
@@ -207,7 +207,7 @@
             }
         },
         {
-            "name" : "EDAP paint yellow",
+            "name" : "EDAP COL paint yellow",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.5629622340202332,
@@ -220,7 +220,7 @@
             }
         },
         {
-            "name" : "EDAP planks helicopter dolly",
+            "name" : "EDAP PBR planks helicopter dolly",
             "normalTexture" : {
                 "index" : 3
             },
@@ -237,7 +237,7 @@
             }
         },
         {
-            "name" : "EDAP paint dark blue",
+            "name" : "EDAP COL paint dark blue",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0,
@@ -250,7 +250,7 @@
             }
         },
         {
-            "name" : "EDAP metal black",
+            "name" : "EDAP COL metal black",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.0207821112126112,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "name" : "EDAP rust",
+            "name" : "EDAP PBR rust",
             "normalTexture" : {
                 "index" : 6
             },
